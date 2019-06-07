@@ -1,0 +1,127 @@
+OpenITG PC beta 2
+Compiled Mon Aug 10 03:50:59 2009 (build 14)
+Log starting 2019-06-07 02:34:47
+VFS: mounting patch.zip
+Loading window: win32
+Windows 6.2 (unknown NT-based) build 9200 []
+Memory: 2047mb total, 4095mb swap (4095mb swap avail)
+Video driver: Intel(R) HD Graphics 630 [Intel Corporation]
+              22.20.16.4815, 9-26-2017 [pci\ven_8086&dev_591b&subsys_118a1025]
+Drive: "HFS256G39TND-N210A      3000" Driver: iaStorA DMA: N/A
+Drive: "ST2000LX001-1RG174      SDM1" Driver: iaStorA DMA: N/A
+Sound device 0: Headphones (High Definition Aud, 0.0, MID 1, PID 65535 
+Sound device 1: Speakers (High Definition Audio, 0.0, MID 1, PID 65535 
+WARNING: Unknown sound driver name: ALSA
+DirectSound Driver: Primary Sound Driver
+DirectSound Driver: Headphones (High Definition Audio Device) {0.0.0.00000000}.{b485524e-d49e-45e5-8b6e-a6c77a82b4dd}
+DirectSound Driver: Speakers (High Definition Audio Device) {0.0.0.00000000}.{0fe4dcd5-6b89-4c4a-b92c-bc5e828a6cc1}
+DirectSound sample rates: 100..200000 (continuous)
+Couldn't load driver DirectSound: no hardware buffers available
+WARNING: Unknown sound driver name: ALSA-sw
+Sound driver: DirectSound-sw
+WARNING: Couldn't find any SM, DWI, BMS, or KSF files in '/Songs/DDR A/ACE FOR ACES/'.  This is not a valid song directory.
+WARNING: Invalid #STOPS value "
+WARNING: " (must have exactly one '='), ignored
+WARNING: Invalid #STOPS value "
+WARNING: " (must have exactly one '='), ignored
+WARNING: Invalid #STOPS value "
+WARNING: " (must have exactly one '='), ignored
+WARNING: Invalid #STOPS value "
+WARNING: " (must have exactly one '='), ignored
+WARNING: Invalid #STOPS value "
+WARNING: " (must have exactly one '='), ignored
+WARNING: Invalid StepsType string 'bm-single' encountered.  Assuming this is 'dance-single'.
+WARNING: Invalid StepsType string 'bm-double' encountered.  Assuming this is 'dance-single'.
+WARNING: Invalid StepsType string 'iidx-single7' encountered.  Assuming this is 'dance-single'.
+WARNING: Invalid StepsType string 'iidx-double7' encountered.  Assuming this is 'dance-single'.
+WARNING: Invalid StepsType string 'iidx-single5' encountered.  Assuming this is 'dance-single'.
+WARNING: Invalid StepsType string 'iidx-double5' encountered.  Assuming this is 'dance-single'.
+WARNING: Song "/Songs/In The Groove/Delirium/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Disconnected -hyper-/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Oasis/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Queen of Light/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Xuxa/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Agent Blatant/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Amore/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Baby Don't You Want Me/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Birdie/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Bumble Bee/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Clockwork Genesis/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Destiny/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Get Happy/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Hardcore Symphony/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Incognito/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Life of a Butterfly/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Monolith/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Out Of The Dark/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Reactor/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Robotix/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Typical Tropical/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/VerTex^2/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Vorsprung Durch Techno/" has no music file; guessing at 100.000000 seconds
+WARNING: BannerCache::CacheBanner: Couldn't load /Songs/Jubo Impulsion [KB+PAD] (301-450)/CheerS [Hataraku Saibou ED][436]/Cheers-bn.avi: Unknown file format
+WARNING: BannerCache::CacheBanner: Couldn't load /Songs/Jubo Impulsion [KB+PAD] (301-450)/CheerS [Hataraku Saibou ED][436]/Cheers-bn.avi: Unknown file format
+WARNING: BannerCache::CacheBanner: Couldn't load /Songs/Jubo Impulsion [KB+PAD] (301-450)/Hajimari no Shirushi [Zero kara Hajimeru Mahou no Sho ED][347]/Hajimari no Shirushi-bn.avi: Unknown file format
+WARNING: BannerCache::CacheBanner: Couldn't load /Songs/Jubo Impulsion [KB+PAD] (301-450)/Hajimari no Shirushi [Zero kara Hajimeru Mahou no Sho ED][347]/Hajimari no Shirushi-bn.avi: Unknown file format
+Loading courses.
+WARNING: AllowExtraPlayerOptions turned off, skipping Extra.ini
+Video renderers: 'd3d,opengl'
+Windowed 1920x1080 32 color 32 texture 60Hz NoVsync AA
+Found 1 DirectInput devices:
+   0: 'Keyboard' axes: 0, hats: 0, buttons: 256 (buffered)
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: The graphic '/Themes/simply-love-openitg-master/Fonts/Common default 2x1.png' has frame dimensions that aren't even numbers.
+WARNING: 
+WARNING: The entire image is 64x33 and frame size is 32.0x33.0.
+WARNING: 
+WARNING: Image quality will be much improved if you resize the graphic to 64x34, which is a frame size of 32x34.
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_ui chars # 16px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_japanese 24px" that doesn't exist
+WARNING: Font "/Themes/simply-love-openitg-master/Fonts/_16px fonts.ini" imports a font "_korean 24px" that doesn't exist
+Mixing 4095.686768 ahead in 2815 Mix() calls
+Players joined: none
+Lost focus to: chrome.exe
+Language: english
+Current renderer: Direct3D
+Theme: simply-love-openitg-master

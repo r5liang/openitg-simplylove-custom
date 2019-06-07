@@ -1,0 +1,3858 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="Stats.xsl"?>
+
+<Stats>
+<CalorieData>
+<CaloriesBurned Date='2019-03-20' >412.276733</CaloriesBurned>
+<CaloriesBurned Date='2019-03-26' >688.059814</CaloriesBurned>
+<CaloriesBurned Date='2019-03-29' >423.507660</CaloriesBurned>
+<CaloriesBurned Date='2019-05-06' >498.331787</CaloriesBurned>
+<CaloriesBurned Date='2019-06-02' >1097.573242</CaloriesBurned>
+<CaloriesBurned Date='2019-06-03' >548.134033</CaloriesBurned>
+<CaloriesBurned Date='2019-06-05' >477.275696</CaloriesBurned>
+<CaloriesBurned Date='2019-06-07' >1005.070374</CaloriesBurned>
+</CalorieData>
+<CategoryScores/>
+<CoinData>
+<DayOfWeek>
+<Friday>0</Friday>
+<Monday>0</Monday>
+<Saturday>0</Saturday>
+<Sunday>0</Sunday>
+<Thursday>0</Thursday>
+<Tuesday>0</Tuesday>
+<Wednesday>2</Wednesday>
+</DayOfWeek>
+<Hour>
+<Hour00>0</Hour00>
+<Hour01>0</Hour01>
+<Hour02>0</Hour02>
+<Hour03>2</Hour03>
+<Hour04>0</Hour04>
+<Hour05>0</Hour05>
+<Hour06>0</Hour06>
+<Hour07>0</Hour07>
+<Hour08>0</Hour08>
+<Hour09>0</Hour09>
+<Hour10>0</Hour10>
+<Hour11>0</Hour11>
+<Hour12>0</Hour12>
+<Hour13>0</Hour13>
+<Hour14>0</Hour14>
+<Hour15>0</Hour15>
+<Hour16>0</Hour16>
+<Hour17>0</Hour17>
+<Hour18>0</Hour18>
+<Hour19>0</Hour19>
+<Hour20>0</Hour20>
+<Hour21>0</Hour21>
+<Hour22>0</Hour22>
+<Hour23>0</Hour23>
+</Hour>
+<LastDays>
+<Day2Ago>0</Day2Ago>
+<Day3Ago>0</Day3Ago>
+<Day4Ago>0</Day4Ago>
+<Day5Ago>0</Day5Ago>
+<Day6Ago>0</Day6Ago>
+<Today>0</Today>
+<Yesterday>0</Yesterday>
+</LastDays>
+<LastWeeks>
+<LastWeek>0</LastWeek>
+<ThisWeek>0</ThisWeek>
+<Week02Ago>0</Week02Ago>
+<Week03Ago>0</Week03Ago>
+<Week04Ago>0</Week04Ago>
+<Week05Ago>0</Week05Ago>
+<Week06Ago>0</Week06Ago>
+<Week07Ago>0</Week07Ago>
+<Week08Ago>0</Week08Ago>
+<Week09Ago>0</Week09Ago>
+<Week10Ago>0</Week10Ago>
+<Week11Ago>2</Week11Ago>
+<Week12Ago>0</Week12Ago>
+<Week13Ago>0</Week13Ago>
+<Week14Ago>0</Week14Ago>
+<Week15Ago>0</Week15Ago>
+<Week16Ago>0</Week16Ago>
+<Week17Ago>0</Week17Ago>
+<Week18Ago>0</Week18Ago>
+<Week19Ago>0</Week19Ago>
+<Week20Ago>0</Week20Ago>
+<Week21Ago>0</Week21Ago>
+<Week22Ago>0</Week22Ago>
+<Week23Ago>0</Week23Ago>
+<Week24Ago>0</Week24Ago>
+<Week25Ago>0</Week25Ago>
+<Week26Ago>0</Week26Ago>
+<Week27Ago>0</Week27Ago>
+<Week28Ago>0</Week28Ago>
+<Week29Ago>0</Week29Ago>
+<Week30Ago>0</Week30Ago>
+<Week31Ago>0</Week31Ago>
+<Week32Ago>0</Week32Ago>
+<Week33Ago>0</Week33Ago>
+<Week34Ago>0</Week34Ago>
+<Week35Ago>0</Week35Ago>
+<Week36Ago>0</Week36Ago>
+<Week37Ago>0</Week37Ago>
+<Week38Ago>0</Week38Ago>
+<Week39Ago>0</Week39Ago>
+<Week40Ago>0</Week40Ago>
+<Week41Ago>0</Week41Ago>
+<Week42Ago>0</Week42Ago>
+<Week43Ago>0</Week43Ago>
+<Week44Ago>0</Week44Ago>
+<Week45Ago>0</Week45Ago>
+<Week46Ago>0</Week46Ago>
+<Week47Ago>0</Week47Ago>
+<Week48Ago>0</Week48Ago>
+<Week49Ago>0</Week49Ago>
+<Week50Ago>0</Week50Ago>
+<Week51Ago>0</Week51Ago>
+</LastWeeks>
+</CoinData>
+<CoinDataService>
+<DayOfWeek>
+<Friday>1</Friday>
+<Monday>0</Monday>
+<Saturday>0</Saturday>
+<Sunday>0</Sunday>
+<Thursday>0</Thursday>
+<Tuesday>2</Tuesday>
+<Wednesday>0</Wednesday>
+</DayOfWeek>
+<Hour>
+<Hour00>0</Hour00>
+<Hour01>1</Hour01>
+<Hour02>2</Hour02>
+<Hour03>0</Hour03>
+<Hour04>0</Hour04>
+<Hour05>0</Hour05>
+<Hour06>0</Hour06>
+<Hour07>0</Hour07>
+<Hour08>0</Hour08>
+<Hour09>0</Hour09>
+<Hour10>0</Hour10>
+<Hour11>0</Hour11>
+<Hour12>0</Hour12>
+<Hour13>0</Hour13>
+<Hour14>0</Hour14>
+<Hour15>0</Hour15>
+<Hour16>0</Hour16>
+<Hour17>0</Hour17>
+<Hour18>0</Hour18>
+<Hour19>0</Hour19>
+<Hour20>0</Hour20>
+<Hour21>0</Hour21>
+<Hour22>0</Hour22>
+<Hour23>0</Hour23>
+</Hour>
+<LastDays>
+<Day2Ago>0</Day2Ago>
+<Day3Ago>0</Day3Ago>
+<Day4Ago>0</Day4Ago>
+<Day5Ago>0</Day5Ago>
+<Day6Ago>0</Day6Ago>
+<Today>1</Today>
+<Yesterday>0</Yesterday>
+</LastDays>
+<LastWeeks>
+<LastWeek>0</LastWeek>
+<ThisWeek>1</ThisWeek>
+<Week02Ago>0</Week02Ago>
+<Week03Ago>0</Week03Ago>
+<Week04Ago>0</Week04Ago>
+<Week05Ago>0</Week05Ago>
+<Week06Ago>0</Week06Ago>
+<Week07Ago>0</Week07Ago>
+<Week08Ago>0</Week08Ago>
+<Week09Ago>0</Week09Ago>
+<Week10Ago>2</Week10Ago>
+<Week11Ago>0</Week11Ago>
+<Week12Ago>0</Week12Ago>
+<Week13Ago>0</Week13Ago>
+<Week14Ago>0</Week14Ago>
+<Week15Ago>0</Week15Ago>
+<Week16Ago>0</Week16Ago>
+<Week17Ago>0</Week17Ago>
+<Week18Ago>0</Week18Ago>
+<Week19Ago>0</Week19Ago>
+<Week20Ago>0</Week20Ago>
+<Week21Ago>0</Week21Ago>
+<Week22Ago>0</Week22Ago>
+<Week23Ago>0</Week23Ago>
+<Week24Ago>0</Week24Ago>
+<Week25Ago>0</Week25Ago>
+<Week26Ago>0</Week26Ago>
+<Week27Ago>0</Week27Ago>
+<Week28Ago>0</Week28Ago>
+<Week29Ago>0</Week29Ago>
+<Week30Ago>0</Week30Ago>
+<Week31Ago>0</Week31Ago>
+<Week32Ago>0</Week32Ago>
+<Week33Ago>0</Week33Ago>
+<Week34Ago>0</Week34Ago>
+<Week35Ago>0</Week35Ago>
+<Week36Ago>0</Week36Ago>
+<Week37Ago>0</Week37Ago>
+<Week38Ago>0</Week38Ago>
+<Week39Ago>0</Week39Ago>
+<Week40Ago>0</Week40Ago>
+<Week41Ago>0</Week41Ago>
+<Week42Ago>0</Week42Ago>
+<Week43Ago>0</Week43Ago>
+<Week44Ago>0</Week44Ago>
+<Week45Ago>0</Week45Ago>
+<Week46Ago>0</Week46Ago>
+<Week47Ago>0</Week47Ago>
+<Week48Ago>0</Week48Ago>
+<Week49Ago>0</Week49Ago>
+<Week50Ago>0</Week50Ago>
+<Week51Ago>0</Week51Ago>
+</LastWeeks>
+</CoinDataService>
+<CourseScores/>
+<GeneralData>
+<Course/>
+<CurrentCombo>0</CurrentCombo>
+<Data>local tab1 = { }
+tab1[&quot;CutOffTime&quot;] = 0
+tab1[&quot;Ghost&quot;] = { }
+tab1[&quot;SessionTimer&quot;] = 0
+tab1[&quot;Love&quot;] = { }
+tab1[&quot;TimedSets&quot;] = false
+tab1[&quot;CustomPrefs&quot;] = { }
+tab1[&quot;Ghost&quot;][1] = { }
+tab1[&quot;Ghost&quot;][2] = { }
+tab1[&quot;Ghost&quot;][3] = { }
+tab1[&quot;Ghost&quot;][4] = { }
+tab1[&quot;Ghost&quot;][5] = { }
+tab1[&quot;Ghost&quot;][6] = { }
+tab1[&quot;Ghost&quot;][7] = { }
+tab1[&quot;Ghost&quot;][8] = { }
+tab1[&quot;Ghost&quot;][9] = { }
+tab1[&quot;Ghost&quot;][10] = { }
+tab1[&quot;Ghost&quot;][11] = { }
+tab1[&quot;Ghost&quot;][12] = { }
+tab1[&quot;Ghost&quot;][13] = { }
+tab1[&quot;Ghost&quot;][14] = { }
+tab1[&quot;Ghost&quot;][15] = { }
+tab1[&quot;Ghost&quot;][16] = { }
+tab1[&quot;Ghost&quot;][17] = { }
+tab1[&quot;Ghost&quot;][18] = { }
+tab1[&quot;Ghost&quot;][19] = { }
+tab1[&quot;Ghost&quot;][20] = { }
+tab1[&quot;Ghost&quot;][21] = { }
+tab1[&quot;Ghost&quot;][22] = { }
+tab1[&quot;Ghost&quot;][23] = { }
+tab1[&quot;Ghost&quot;][24] = { }
+tab1[&quot;Ghost&quot;][25] = { }
+tab1[&quot;Ghost&quot;][26] = { }
+tab1[&quot;Ghost&quot;][27] = { }
+tab1[&quot;Ghost&quot;][28] = { }
+tab1[&quot;Ghost&quot;][29] = { }
+tab1[&quot;Ghost&quot;][30] = { }
+tab1[&quot;Ghost&quot;][31] = { }
+tab1[&quot;Ghost&quot;][32] = { }
+tab1[&quot;Ghost&quot;][33] = { }
+tab1[&quot;Ghost&quot;][34] = { }
+tab1[&quot;Ghost&quot;][35] = { }
+tab1[&quot;Ghost&quot;][36] = { }
+tab1[&quot;Ghost&quot;][37] = { }
+tab1[&quot;Ghost&quot;][38] = { }
+tab1[&quot;Ghost&quot;][&quot;Save&quot;] = true
+tab1[&quot;Love&quot;][&quot;Color&quot;] = 7
+tab1[&quot;Love&quot;][&quot;Dir&quot;] = &quot;simply-love-openitg-master&quot;
+tab1[&quot;CustomPrefs&quot;][&quot;CreditType&quot;] = &quot;Coin&quot;
+tab1[&quot;CustomPrefs&quot;][&quot;UseOldLogo&quot;] = false
+tab1[&quot;CustomPrefs&quot;][&quot;MusicSelectSeconds&quot;] = 120
+tab1[&quot;Ghost&quot;][1][1] = &quot;şÿ°ıtşÿêışTşÿ¶®ıÿqıÿhı)&quot;
+tab1[&quot;Ghost&quot;][1][2] = &quot;{0,20}{2,10}{16,20}&quot;
+tab1[&quot;Ghost&quot;][1][0] = &quot;048014/Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/&quot;
+tab1[&quot;Ghost&quot;][2][1] = &quot;şf¿ÿ°ş„İşeÿˆìÿU¡ÿÀş¢şeÿ5ÿ6ÿìÿÿ’¶ÿÌÓÿİÿ	ıÿ-ÿİôÿ ÿ‚ÿ“ÿ$ÿ)TÌÿS½ÿGÜÿUÿ†ÿeÿ’ÿ¿Öÿe—îÿL¿óÿ¾åÿtÿ$ÿ’ìÿtÿ$ÿhÎÿƒÜÿEİÿ’ÿƒÿtİÿíÿcÿ5°ÿ5¡ÿUÿÿsÿdÿ°ÿ¡ÿ¡ÿ¿ÿƒÿeİÿUÜÿ‘ÿtÿeÿ)ÿtÿw±àÿdÍÿF¡ÿ$¡ÿ$ ÿƒÿï\000ÿàÿ’¾ÿtÌÿ4’ÿ3Ÿÿt—ÿàêÿcÛÿT¾ÿE°ÿ$’ÿÿ†¿ÿ#±ÿFX¿ÿ5Üÿ³ÿ)Dÿ!ÿÎÿdñôÿÑÿSÿD¡ÿ‘ÿtÿÿU|ÎÿF¿ÿ5°ÿ$¡ÿ‘ÿşT{°ÿ5°ÿ$½ÿ3®ÿ#‘ÿeİÿeÎÿT¿ÿtİÿD¯ÿ’ÿtìÿsÿ|rÜÿT¿ÿE¡ÿe¾ÿ3Ÿÿÿrêÿ‚ëÿSÜÿt½ÿU¾ÿ!‚ìÿtİÿdÎÿU¾ÿÂÿÿ3 ÿƒİÿeÎÿdÍÿF¿ÿ$ÿ8”ÿ)…ÎÿFÀÿ5¡ÜÿU¿ÿF¾ÿDÿ/3uìÿeÏÿVêÿàÛÿcÛÿ¡Âÿƒÿ#Ÿÿ!‘ìÿeÿ$¡ÿ%sÛÿ!‘½ÿU¾êÿrƒÿÌïÿTÁÿT®ÿ4F°&quot;
+tab1[&quot;Ghost&quot;][2][2] = &quot;{0,175}{1,175}{1,12}{14,175}{1,6}{15,27}{35,39}{42,46}{47,51}{54,58}{60,93}{96,100}{100,107}{109,139}{141,175}{167,171}&quot;
+tab1[&quot;Ghost&quot;][2][0] = &quot;11.58164034/Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/&quot;
+tab1[&quot;Ghost&quot;][3][1] = &quot;ş#Ìÿ¯ÿ®ÿŸÎşF½ìşFŸÿÎÿÌÿ®şrÿ#ÿDÿóÿÿ˜ÿµ½ÿãêı3ÿëÿêÿjåÿ8ÿ‘İÿrŸëÿƒÖÛÿD ÿDŸÿ!TŸÿ)E—ÿÿcÛÿ$ ÿ#Ç½ÿcyÿ,F‚¾ÿ[¯ÿ‚ÿ!ÿ!5‚¯ÿrÿ3Ûÿ½ÿ4½ëÿDŸÍÿ!ŸÌÿ5s½İÿr®Üÿ!FŸ¿ÿEtÎÿr¾ÿ#Şÿ5sŸÿêÿ3’¡°ÿcÿ#½ÿ3Ÿÿ‘¢ìÿhÌÿ‚ÿcŸÌÿEtÌÿÿDÿ!EÏÿ)t¡İÿe’Íÿƒ°ÿ#5½ÿD¾ÿ!ƒŸÛÿÿ#e®ÎÿUŸëÿ!S°ÿ‚¯İÿ3d®Îÿc¿ÿcs¯ÿŠ¡ÿcÌÿS‚¡ÿ4½ÿ!’Ûÿ!ŸÌÿEÿ‘Ÿêÿ!Tìÿc¯ÿ4 ÜÿT’Íÿ!ÿôÿêÿFjÛìÿD¡ÿDŸÿcÿS‚¡ëÿ½Üş^SÌìÿ$e½ÿ3®ÿ#ŸÿDs êÿóÿƒ’Üÿt½ÿMD‘ ÿ!¯Ìÿ‚°ÿ5s İÿEÛäÿ!TÌÿEe®ëÿ$U®Ûÿ¦¯ÛÿS½İÿ$ƒ‘êÿ3cåÿEZƒ°ëÿ$s®ÿ3’®Ûÿ!¨ÿ5SÍÿ‚ ÍÿTÌÓÿE^‚¯Îÿ$¶íÿ#=’ÿ! ìÿsÿÿsìÿdÍÿDd’¿ÿTÿ#‚¤¯İÿ$U¡êÿr‘ÍÿEƒ°ÿD¡Üÿ3dÜÿswàÿ)4Vh¡ÿ$5‚Ÿêÿmc¯Ìÿ!S“ÆëÿTe Üÿ#©Îÿ+Sw ¾ÿ$$’Üÿ3dŸ¿ÿks¾Õìÿ$s¯ÿU ¾êÿ!ddŸëÿ$‚½İÿrêóÿTmâÿF‚Ìÿe¡ÿ#’ÛìÿT¿ìÿ!t‚ÍêÿDr¡Îÿ!cŸ¿ÿE¡ëÿd¾&quot;
+tab1[&quot;Ghost&quot;][3][2] = &quot;{0,176}{1,176}{1,176}{1,9}{14,176}{1,8}{16,20}{22,27}{37,55}{60,92}{94,100}{102,133}{137,176}{40,46}{62,66}{69,78}{108,112}{114,126}{128,132}{142,164}{166,176}&quot;
+tab1[&quot;Ghost&quot;][3][0] = &quot;69.94268544/Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/&quot;
+tab1[&quot;Ghost&quot;][4][1] = &quot;şEÿÌş‘şeşÿÍş¡şrş5ÿÜóş—şÛåışÿÌâşşƒşDşSşÿëşÛş¯Äÿrÿ!ÿeÿrÿ3Ìş5ÿ3ÛÿŸÿİÿêÿÿEÿ„ÿŸÿSÿÿUÿSÿÌş#ÿ¯ÿsÿ¿ÿÌÿrÿ3ÿÿÿeÿTÿSÿDÿ!ÿ!ÿêÿÛÿ¾ÿ½ÿ®ÿÿÿrÿcÿSÿ5ÿ3ÿ!ÿëÿÛÿÍÿ½ÿ½ÿŸÿÿÜôşÓÿ5ÿ3ÿ!ÿ!İÿÜşÖÌÿ®ÿ®ÿÿsêşÿE]ÿ3Lÿ#=ÿÿëÿÎÿÌÿ¯ÿ®ÿŸÿ‚ÿrÿdÿTÿ4ÿ#ÿÿÿêÿÍÿ¯ÿŸÿƒÿÿrÿsÿcÿSÿ!ÿ˜ÿÿÜâÿÌÿ½ÿ®ÿ‘ÿÿeÿcÿSÿEÿ3ÿ!ÿÿÛÿÌÿÌÿ ÿŸÿÿÿrÿcÿSÿ$ÿ#ÿÿêÿÛÿÌÿ¯ÿŸ·&quot;
+tab1[&quot;Ghost&quot;][4][2] = &quot;{0,175}{1,175}{1,12}{29,91}{95,100}{103,107}{109,139}{141,175}&quot;
+tab1[&quot;Ghost&quot;][4][0] = &quot;88.3487524/Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/&quot;
+tab1[&quot;Ghost&quot;][5][1] = &quot;Üÿ$t¿ÿ#¯ÿFƒêÿ4Íÿ#Ft¯ÿT‘êÿ‚Ìÿ3U¡İÿT ¯ÎÿEcìÿ3r½ÿcŸİÿ5t¿ÿr½ìÿSÿS‚Íÿrÿkmêÿ‚™ÛÿF½ÂìÿŸ¨ëÿ4ÿÇ½êÿ#Ft¡Îÿ4Ìÿ#½ëÿF‚¡êÿ$ÍÿU¯ìÿFƒİÿ™¡ëÿF½ÿT®Üÿ5‚Íÿ4r½ÿkc®ÜÿDÛÿ!d¯ìÿc¯ÿD Íÿ#e½ÿFt½êÿ™ÿ3s¯ìÿEñÿ4Ìÿ!ÆÍÿc®Üÿ4¿ÿ!Åİÿc®êÿÛÿs½ÿcŸëÿD‚Ûÿs½ìÿSŸÿTÍÿ4½ÿS®ÿS ëÿ!r½ëÿTŸÜÿDÌÿ!d¯ÿs‘êÿT¡ëÿ#rÌÿ#cŸÿDâëÿ4r½ÿc®êÿ$àìÿf¡ÿ5sŸëÿ$‚ÍÿU‚½ÿT‘êÿT‚Ûÿ!r½ÿSŸëÿS‚ÍÿrÍÿT êÿ4ëÿ3rÿSkŸÿ4ìÿ4e¯ÿT®êÿTÌÜÿrÍÿ5cŸÿÍÿ!r¯ÿcŸÿD ëÿ!rÌÿc®ÿDÛÿr¯ÿc ÿ4 ëÿFr¯ÿS ëÿ4Ûÿr¯ÿóêÿSÿ!½ÿF ÿ4tÍÿr½ÿcêïÿ•ëÿr½ìÿEŸÜÿ°Ûÿ#d½ÿ¯ÜÿDsÍÿ3s½ìÿcŸêÿ5Ûàÿ3e½ÿ#êÿTÿÿjm®ÿD ëÿE’¯ÿc®êÿDÿ+F|ÄİÿS êÿD¿ÿ!r½ÿcôÿKT‚šÿ!r½ÿc¯Üÿt•ÿ#8½ÿTk‘Üÿ$‚¿ÿrz¯ÿƒôÿt Ûÿd½ÿc’êÿD Íÿ3‚½ÿms¦¾ôêÿëÿr½ÿT®êÿDÿ+Fr|ÄÍÿcÎÎÿDÍàÿU’ÿTÿ™ Ìÿ#s½ìÿ¨®ëÿ4‚ÿ+Er¯ÿs’êÿDÛÿ3Ìÿ#FŸÿ4Nÿ,3¯ìÿc’ÿDL‚ÍşT¦©&quot;
+tab1[&quot;Ghost&quot;][5][2] = &quot;{0,150}{3,150}{3,150}{3,150}{3,149}{3,17}{20,40}{41,75}{75,83}{84,93}{94,98}{98,108}{111,119}{123,131}{132,140}{141,146}&quot;
+tab1[&quot;Ghost&quot;][5][0] = &quot;79.29283044/Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/&quot;
+tab1[&quot;Ghost&quot;][6][1] = &quot;êÿÿE¯ÿcÿÿ!°ÿEêÿÿ!¯ÿcÿÿ!½ÿcëÿ ÿ#ÍÿcÿÿEÌÿtÿÿ!½ÿSëÿDÿÆÍÿôÿ4Ûÿ#Íÿ®İÿÿ3¯ÿ®ÿ¡Ûÿ‚°ÿSêÿÍÿ½ÿs®ÿS ÿ3Íÿc¿ÿTÿErÿEêÿÿ4s½ÿsêÿ$ÿ!½ÿcÜÿDÿ3ÌÿSêÿ‚ÿ!r½ÿSÿDÌÿ3¯ÿSÜÿD‚ÿÿŸêÿ‚ÿ½ÿ¤êÿÛÿr®ÿSÿ=3ÿ+ÿ[tóÿÔÿ!½ÿdŸêÿÿdìÿSêÿÿr®ÿS‘Üÿs¾ÿ®ÿdÜÿ#‘ÿ!®ÿŸêÿÿ!dÿS^ÿsŠÿ,¡·ÿSêÿ‘ÿ½ÿSêÿÿÍÿFÎÿ‘ÿF®ÿtêÿ¡ÿ4¾ÿdêÿÿ4¡ÿSÿUÛÿ!¾ÿ^êÿ¡ÿ!Íÿdÿ¡ÿ!¯ÿ5Ûÿÿ½ÿtëÿsÿ!¯ÿSëÿ¡ÿ!Îÿdëÿ¡ÿ5®ÿêş!ÿZ^êÿÿ5®ÿSÎÿÿ-!¯ÿSÛÿ¾ÿ! ÿEòÿÿ®ÿSêÿsÿ! ÿ[SñêÿŠÿ,¸¾ÿ$]ÿ‹ÿ!®ÿSÜÿ3°ÿ½ÿ[dÛÿÿF®êÿSÛÿÿ-!¯ÿdÿÿ!¯ÿEÎÿŠ‘ÿ.¯¶ÿE]Üñÿ‰ÿµ¾ÿdêÿ‘ÿ½ÿEëÿsÿ,!µ½ÿ]tòÿ‹ÿÿ¨©&quot;
+tab1[&quot;Ghost&quot;][6][2] = &quot;{0,149}{4,149}{4,149}{4,59}{61,107}{109,141}{143,149}{24,28}{28,33}{33,37}{38,42}{43,47}{65,71}&quot;
+tab1[&quot;Ghost&quot;][6][0] = &quot;86.6172534/Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/&quot;
+tab1[&quot;Ghost&quot;][7][1] = &quot;üÿÿDeÿ!d’¿ÿrÛÿS[ÖÛÿS°ÿ¡ÅÿDÎÎÿ3ÿ#ŸÿTÌÿÿ¡ÿU½İÿrëÿTÍÿEt°ÿS‚½ëÿD½ÿD µÿ=3rŸÿŸÿzÿÿStÿêÿrÛÿcÍÿSÌÿ5Ìÿe¡ëÿ4¡ÿ#?¨®ÿ!.Ÿ¦ÿ,!™ÿ¾ëÿêÿÜÿrÍÿŸÿ8E¾ÿE°ÿ5‘®ÿD®ÿU¿ÿ!ŸÿF‚ÿ‚—ÿˆÿ{‚ôÿcyÛÿsÿSÌÿ5ÿDêÿ®ÿE‘ÿ#Ÿÿ5Ÿÿ5àÿÿÜÿŸÿsÍÿcÌÿE½ÿD½ÿUÎÿ3ŸÿŸÿSÿ!°ÿ5¡êÿrÜÿ‚¿ÿTëÿƒ¾ÿ#5ÜÿD½ÿ3®ÿ!=¾Îÿ3¯ÿ!ŸÿeëÿsİÿÜÿÎşÌÿ¾ÿ½ÿ®ÿŸÿc’ÿ!Ÿÿÿ$4ÿrêÿ|‚êÿkcÌÿSÜÿdÿ4Kÿ; Üÿ$¯ÿ!Ÿÿ!°ÿtÿ¯ëÿrÜÿÍâÿc¿ÿ5ƒ¢ÿ5°ÿ$¡Ñÿ3¡ÿ# §ÿ!‘ÿ‚ÿ5 ÿsÿeÿcÿcëÿSÌÿEÿD½ëÿ3 ÿ3®ÿ!-¯ÿ.!Ÿ¿ÿ! ÿÿ	ÎôÿcƒÛÿsÍÿ¾ÿ½ÿ®ÿe®ÿ$Ÿÿ¨Ÿÿ!ÿÿsêÿÿrÛÿTÌÿTÿS¡İÿDÿ#’µêíÿU’ÎÿŸÍÿÿ‚ÿÿeêÿd’Îÿs‘Íÿ!SŸÌÿE½ÿ¡ğÿuÿ®ÿ.!¦&quot;
+tab1[&quot;Ghost&quot;][7][2] = &quot;{0,179}{7,179}{7,97}{99,179}{7,30}{31,62}{64,71}{71,78}{79,95}{103,132}{132,147}{151,179}{8,13}{20,28}{87,91}{107,111}{121,129}{162,169}{170,177}{122,127}&quot;
+tab1[&quot;Ghost&quot;][7][0] = &quot;79.69193544/Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/&quot;
+tab1[&quot;Ghost&quot;][8][1] = &quot;şÿUÿ5ÿ½ÿrÿ5jÿİÿ¡ÿczÿ†ÿ8êÿƒ§ÿTÿ½ÿ˜ÿUÿ!ÿ¯ÿˆ‘şNİÿ¯ÿrÿ3ÿñôşcÿ!FÌÿ#ÿDïëÿcÿ#FÿÛÿ3ŸÜÿ4şÜÿ—š¿ÿêÿìÿ¯ÿsÿ$Ûÿƒÿ®ÿ¾ÿ¡ÿİÿ ÿcÿÿÿ4Îÿ ÿcÿÿ;•ÿSëÿ¡ÿÂÿÍÿŸÿ5İÿ$½ÿrÿ$êÿŸÿSÿ!¾ÿÿ3ÿE ÿrÿ¡ÿtÿDÿ®ìÿcÿ!Ñÿ% ÿ4’ÿ½ÿìÿ!ÛÿŸêÿdÿ½ÿ!ÿ#°ÿŸÿcÿd°ÿ!ÿ#‘ÿSŸÿcÿ#½ÿ!‚ÿ4Ÿÿ®ÿcÌÿ!Ìÿ#ÿ5 ÿ®ÿrÌÿ!ÿ‚ÿEÿ®Åÿÿ#Ûÿ‘İÿSÿr½ÿÌÿÜÿŸ§ÿlcÿ½ÿ!sÿDÜÿS®ÿcÿ¾ÿEÿ4¯êÿ®ÿrÿÍÿ‘ÿ5 ÿ½ÿÿ!ÛÿDÿSÿ½ş3:êóÿ§Ÿÿcÿd½ÿÿ4ÿŸÿTÿdÛÿ‚ëÿDÿS½ÿr½ÿ!Ûÿ‘êÿ5ÿT½ÿÜÿ#sÛÿŸÿSÿ½ş3?êÿ ÿc ÿ#Ìÿ!ÿDŸÿ®ÿTÿ¾ÿtÎÿ4ÿÿ%ÿÿ—š&quot;
+tab1[&quot;Ghost&quot;][8][2] = &quot;{0,213}{6,213}{6,34}{38,162}{164,194}{196,213}{6,17}{24,28}{39,43}{44,50}{97,101}{110,115}{144,149}{155,159}{178,183}{185,189}{202,206}{208,212}&quot;
+tab1[&quot;Ghost&quot;][8][0] = &quot;76.46150034/Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/&quot;
+tab1[&quot;Ghost&quot;][9][1] = &quot;şÿdşÿs‹şÿ®µşÿòêşÿ°Õıhşÿ¤şÿ†&quot;
+tab1[&quot;Ghost&quot;][9][2] = &quot;{0,21}{6,21}&quot;
+tab1[&quot;Ghost&quot;][9][0] = &quot;1.5558014/Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/&quot;
+tab1[&quot;Ghost&quot;][10][1] = &quot;ÿÿ|ÿ!ÿ:ëşšÿÀÿëşjmşhş)&quot;
+tab1[&quot;Ghost&quot;][10][2] = &quot;{0,24}{5,16}{21,24}&quot;
+tab1[&quot;Ghost&quot;][10][0] = &quot;2.8983014/Songs/Jubo Cessation [KB+PAD] (451-500)/Kimi no Sei [Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai OP][458]/&quot;
+tab1[&quot;Ghost&quot;][11][1] = &quot;ÿÇÍÿrÿU¡ÿ!Ûÿ3ÛÿÿSƒêÿDŸëÿ!c®ÿclÿr¯ÿ½ÿ°ÿ#ëÿÛÿ4U‘ÜÿDƒÜÿSŸÿSŸìÿF’¿ÿU‘ÌìÿDr½Îÿ3e‘°ÿFÛÿ#Ûÿ$TÎÿ4ƒ¯ÿ5Is¯İÿ!°¾ÿ#sÿd{Ÿ½ÿ#r½ÿÌÿEÍÿ#t¿ÿ$êÿ4tÎÿ$’ÿ5X’İÿ’³ìÿ6t¯ÿeh¾ÿrÿsÌÿT¯Ûÿ#Üÿ4ŸëÿDÀÿE‘ÿcÿU¯ÿ!‚Ìÿ!‘¾ÿ#Ûÿ3‘Íÿ4êÿ5İÿEr¾ÿ!S’ìÿF’ÿr½ÿ!r¡ÿ5e‘Ìÿ3TÛÿ#‚ÿ3êÿd‘½İÿ5ëÿE ÿcÿr½ÿr¯ÿr¿ÿ5e’Ûÿt¿ÿ$Ut±ÿS‘¯êÿSŸÿS’ÌìÿFt¡ÿd½ÿ5r½ÿ$e‘°ÿ!ìÿ#TÍìÿ3‘ÜÿD‘ÿ$I°¾ÿ#5X’ÿT¡ÎÿUƒÍÜÿDr‘Ìÿdw’¾ÿ5„ÌÿE‚Ûÿ4F±ÿDƒêÿŸ©ÿc Íÿ ÛÿDc¡ÿF°ÿÿ3ÿ)3âÛÿ‘šêÿDÜÿ5ƒÿ®ÿc ÿcÿ!rÜÿ3Ìÿ4SÛÿ#‚Íÿ3‘ÜÿİÿDŸÿE ÿc®ìÿ$U½ÿr¾ÿU¡ÿe¢ÿ#‚’ÍÿcÿLSU½ÿŸ©ÿSÿT¡ÿ½ÿ¯ÿÿ!¾ÿ#‚Ûìÿ3U‘êÿDŸêÿ5’ÿ®ÿXc ÿU¯ìÿd¯ÿ$sŸÛÿ4‘Ûÿ#‚Ûÿ4¿ÿ$f½¿ÿ!t®ÿE[ ÿ)cÎÿTİÿhÂÿ!Ìÿ¿ÿ‚ÿDƒÎÿÎïÿ$’ÿcÿT¯ÿ½ÿrÌÿUÌÿ3¿ÿ#‚Íÿ4ƒ’Îÿ‘Üÿ35ÿSeŸÿ3S¯Ûÿ½ÿdÿ-ÖÌÿ‰ÿ3âÛÿU|‘¯Üÿ4ò&quot;
+tab1[&quot;Ghost&quot;][11][2] = &quot;{0,258}{5,258}{5,258}{5,9}{11,74}{74,152}{157,161}{163,191}{193,252}{254,258}{26,45}{58,63}{83,90}{91,96}{106,143}{144,150}{164,168}{180,187}{197,202}{206,212}{213,221}{244,249}{29,33}{132,139}&quot;
+tab1[&quot;Ghost&quot;][11][0] = &quot;69.63276044/Songs/Jubo Cessation [KB+PAD] (451-500)/Kimi no Sei [Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai OP][458]/&quot;
+tab1[&quot;Ghost&quot;][12][1] = &quot;şÿr ÿEÿÌÿs ÿsÿ!İÿ Îÿ’ÿ!Ûÿòêÿ¯ÿcÿ!°İÿ ÿrÿ3ÿÍÿˆÿcmÿEKÿF¾ÿcÌÿ3ÿñÿ®Üÿcÿ+FsŸÌÿ3ÛÿDŸëÿ!S ¿ÿ‚ÿe ¿ÿ4 êÿDş¾Öÿ#—‘ Ûÿëÿ5ÿÍÿ!rÍÿ‚Îÿ¯ÿcÎÿ¡½ÿ!eÍÿ3‘İÿE ÿc½ÿ!ÜÿÿSŸÿS ÿrÿ.!sÌÿDŸÿS¯ÿc¯ÿ!Ìÿ!ÎÿŸÿS¿ÿcÍÿÿ3Ûÿ$‘ëÿsÿh’ìÿwÍÿ4 ÿD ÿTÿ!¾ÿ3‚ÛÿDÿ ÿ#UÀÍÿ!°ÿ3Üÿ4ŸÿS¯ÿ4d½ÿ!‘ÿ#ÿD’ÿ#TŸ¯ÿ¾ëÿ$Íÿ4ŸÀÿs½ÿr¯ÿ!StÍÿ#rŸ¿ÿS®ÿc¯ÿ!’ÜÿEtÛÿ3Ÿêÿ5’ÿTŸ°ÿ!ëÿ3êÿS’Ìêÿc®ÿr½ëÿ!ÿ¦ÿD^¾ÿ®Äÿdÿ!?t®Îÿ5‘ÿt½Ìÿr¾ÿ!SÌÿÛôÿ$rŸ¿ÿsÎÿ#‚ÜÿEëÿ4êÿSŸÿrÍÿ5‘Ûÿ3 êÿ5ƒëÿS®ÿ#’½ÿ!eÛÿE ÿdŸÿT ®ÿ!ÿ!c‚Ûÿ4rƒÿ!SêÿŸ½ÿÌâÿ$s‚ÍÎÿ$GwuêÿF¡ÿ#‚½ÿ!‚ëÿ3ŸêÿS®ÿ$c¯ÿsÛÿEÎÿ4‘ÿE¡ÿ$r¾ÿ!Ûÿ3ÜÿDtÿSŸ¡ÿ4dÌÿ3Îÿ3cƒÿ3Sëÿ½ÿ¾Öÿ##U‚¯Îÿe¯ÿ$S½ÿ$‚Ÿÿ)3e°ÿ$ƒêÿDs ìÿc¡Üÿ’Ìÿ!‚¯Ûÿ#T’¿ìÿ ÿ!cÌÿ!ÿ˜&quot;
+tab1[&quot;Ghost&quot;][12][2] = &quot;{0,213}{6,213}{6,34}{38,213}{6,34}{38,59}{60,71}{73,119}{121,213}{23,30}{38,57}{77,82}{84,88}{89,93}{95,101}{109,113}{125,130}{131,138}{155,159}{161,169}{181,186}{187,192}{193,213}{44,49}{50,55}&quot;
+tab1[&quot;Ghost&quot;][12][0] = &quot;79.42241544/Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/&quot;
+tab1[&quot;Ghost&quot;][13][1] = &quot;üıŸìÿdÌÿ3ŸëÿƒÌÿ3‘ÿT½ÿ#êÿS½ÿw ÜÿcÍÿÛÿd®ÿ!‘ëÿTÿ‚ÿ)¨ÿr¾ÿ3ŸÿdÌÿ!ÿkÌÿ!òÿc®ÿ3‚êÿS®ÿÛÿµÿÿLŸÿFÌÿ#‘ëÿrÌÿ3ÿ	ÓÜÿ™ ÿm½ÿ4àÿT¯ÿ!ÜÿS¾ÿ!¡êÿ¤ÏÿGÿDŸÿrÌÿ3¿ÿ#rìÿDŸëÿcÌÿEŸÿcÍÿ!óÿt½ÿ™êÿE®ÿ!êÿd®ÿ!ÿLŸÿÔÿDŸÿrÌÿ3ƒÿrÌÿšÿcÿ,êÿc½ÿ!êÿd ÿ!Ûãÿ¸®ÿrŠÿKŸÿ#‚ÌÿDŸÿrÿDÿÌÿ ÿcÿ4êÿ¡ÿ!ÿS¯ÿsÛÿ!S®ÿSrşdÍÿDÿ{rÛÿ3‘ÿsÿ?3ÿc½ÿEÀàÿ¤ìÿw‚ÿ5I„ÿU¿ÿ®ÿ!ÿ4ŸÿrÌÿŸÿcÿDìÿcÌÿ!ÿcÌÿ ÿ½ÿ!ÿE®ÿsÿS·¾ÿ#Ûÿ$ŸÿyÿNDŸÿc¾ÿ#°ÿF½ÿŸÿcÍÿ#ÜÿE¡ÿ3ÿcÿ#ëÿ®ÿ‰ŠëÿD¯ÿrÛÿDŸÿÜÿDëÿcÿ!‚ÿT½ÿ4êÿc®ÿ!‚ÜÿSÍÿ!êÿdŸÿ5ëÿT¾ÿrÛÿD¯ÿÌÿ3 Ìÿ½ÿETŸÿcÜÿFêÿt½ÿÛÿEÿ!s®Üÿ®ÿsÛÿTÎÿÛÿDŸÿd¾İÿ#ÿF¾ÿ3‘ÿcÿEÿdÍÿ!ÿE’ÿsÛşêÿSÿÿŸëÿF¾ÿ¯ÿs½ÿD‚ÿÄÍÿšŸêÿS¯ÿ!êÿc ÿ!‘ÛÿDŸÿh±ÿ4ïÿhÛÿDŸÿcÿ3ŸìÿÌÿŸÿcÍÿ!ÿdÿ3ÿD®ÿÜÿ5ÿ!êÿMDŸÿ‚ëÿDÿÓÌÿDŸÿc¾ÿ3ƒİÿT½ÿ#İÿS¯ÿ‘êÿD®ÿ!ëÿT®ÿÿDÿ‚¾ÿD‘ëÿrÌÿ3¯ÿrÌÿ‚ëÿ¯ÿ!şÿZ&quot;
+tab1[&quot;Ghost&quot;][13][2] = &quot;{0,307}{15,307}{15,307}{15,32}{33,39}{43,47}{51,55}{60,79}{81,88}{89,96}{97,103}{108,112}{118,128}{129,133}{134,145}{145,149}{151,155}{159,164}{166,177}{183,187}{188,231}{232,237}{244,247}{248,259}{259,263}{267,273}{275,280}{280,295}{299,303}{121,125}&quot;
+tab1[&quot;Ghost&quot;][13][0] = &quot;80.88260534/Songs/DDR A/Alien Alien/&quot;
+tab1[&quot;Ghost&quot;][14][1] = &quot;ÿDıÄÿÿSÿsÛÿS½ÿDÍÿëÿrÛÿ½ÿdÿ!ëÿÿcÿE½ÿ!ƒÿİÿŸÿ5®ÿEŸÿÿ3dÛÿc½ÿ3ÿ!ÿ$eÎÿ!¾ëÿ4 ÿ#cÿ5®ÿc¾ìÿ•ÿFƒÿ!ÿcÍÿeÍÿ3©®ÿtÿdÎÿS°ÿD‘ÿSÿU®ÎÿcÌÿD®ÿ3T‘ÿe®êÿcÍÿ„İÿUƒìÿ5ëÿUÌÿ¾ÿ ÿÿ$dëÿTÌÿSÍÿƒìÿrêÿTÌÿE½ÿEƒìÿÜÿdÿ]S¯ÿE‘ÿ!‚½ÿ4rÛÿcÌÿD®ÿt™ÿ‘ÿcÜÿS¡ÿcŸÿ#‘êÿrÌÿSeÎÿEŸÿ!ëÿrÛÿÌÿ3¾ÿ! ëÿr®ÜÿcÜÿS½ÿ3Ÿëÿ4¡ÜÿcÌÿT½ÿ3ÏÛÿSVhÿrÛÿ5°ÿ4rÌÿ!ÿcÎÿtÌÿ3r½ÿF¯ÿsÜÿƒƒìÿS½ÿFtÿ°İÿEc¯Íÿt¯ÿU‘ÿ!‚½ÿTÍÿ¯ÿ3ÿ˜°ÿ$r®ÛÿSÌÿD®ÿ ÿEsÜÿƒÛÿS¯İÿ!‘Íìÿëÿ3UÛÿS½ÿ#d ÿ‚¯êÿ‚ÛÿT¯ìÿ$¾ÿ3¯ÿrÛÿFÜÿe½ÿ4ŸÿEÎÿrÌÿ5e’ÿ#‘ÿEs¯ÜÿrÛÿF°íÿd®êÿ!ëÿr®ÍÿFÌÿDr®ÿ!‘ÿ4e®ÎÿcÛÿDe¯Üÿ#ŸÿS¯Üÿ3UëÿS½ÿ3 ÿ!t¯İÿ3rÛÿSÌÿD®ÿ!¯ÌÿÜÿ%ÌÿDÍÿ!‘ÿsÜÿ3UŸ°ÿSİÿ6U®¿ÿ!5s¡Îÿ$UŸÛìÿ„¤àşÿy&quot;
+tab1[&quot;Ghost&quot;][14][2] = &quot;{0,200}{3,3}{9,200}{9,200}{9,16}{17,25}{26,65}{66,133}{135,200}{35,44}{50,58}{99,103}{107,115}{118,122}{123,130}{139,145}{147,152}{155,180}{181,185}{190,200}{193,200}&quot;
+tab1[&quot;Ghost&quot;][14][0] = &quot;77.09223544/Songs/Jubo Cessation [KB+PAD] (451-500)/17 Sai [Irozuku Sekai no Ashita kara OP][456]/&quot;
+tab1[&quot;Ghost&quot;][15][1] = &quot;ÿFàİÿtÜÿ#‚½ÿ#¯ÿS¡íÿ$ êÿE Îÿ5êÿ5rëÿs’Íÿ®ÿd¿ÿ§¨ÿc¿ÿ3‘Ìÿ#T°ÿ#T‚İÿ3S¡İÿ3‚¯êÿc½ÿsÎÿs®ÿsêÿE ÿeuÍìÿDU ìÿ$dŸÌÿ3rŸëÿDXÂìÿr¾ÿd‚°ëÿ3 êÿT¡ ÿ# êÿ$„ÿtÿ şSÿ Íÿ$®ÿrÿŸ¿ÿdÌÿ3‘ÿÜÿ3ŸÿT¯ÿ3eÎÿ¤¯ìÿt¤ÎÜÿet½¿ÿ!°½Ñÿ$4Îëÿ!s¯ÛÿU®³ÿGu†Àÿ$ŸÛÿ3¾ÿ%D¿½ÿ3sÌÿ#T‚êÿ ¯ÿ$!c‚êÿF¡ÿêÿS½ÿÍÿD®ÿ#ÍÿD¾ÿrÜÿD‘ÿd¾ÿ‚êÿUÿ#‚İÿ%¯ìÿeÀÿF¡ÿ!¿ÿ5s¯ÜÿEsÿSÿhs’Ûÿ5ÿdÿ3dŸÛÿ‚Ìÿ3‘½İÿTÿ‚êÿ½ÿÿcÿÿ5½ÿS êÿd ÿF’ÛÿDƒÿ5rÍÿ$‘ÌëÿrìÿDŸëÿsìÿ3‚¾ÿ#IT°ÿFt¯êÿcÀÀİÿ!$ÿc’ÿ!$rëÿS®ÿÛÿŸÿ#Âÿ$F°İÿU¿ÿêÿc½ÿ#ëÿ5‚İÿ#‚İÿc½ÿsÎÿS ÿ‘Íÿ5ŸÍÿ5sÍÿ¾ÿdÿ3ÿ3r‘¾ÿ3Ÿ³ëÿ)V†¡³ÿUÿc¯ÿ!¡êÿSÿ!êÿEs¡ÿÍÿ#S®ÿEsŸÍÿ$®ÿF‚ÛÿDŸÿ¡Üÿ$d½ÿs¾ÿ#‚êÿÿ‚ÿ„ÿ!¾ÿF’ÿ$êÿE ÿÛÿS®ìÿUÌİÿUÿc°ÿ$TÿrÌÿ!êÿ½ÿ!Tt¯ÜÿSt®ÿeÎÿ½ÿÿDÿÂÿŸşÿÓÖ&quot;
+tab1[&quot;Ghost&quot;][15][2] = &quot;{0,225}{3,225}{3,225}{3,49}{52,119}{123,197}{200,222}{3,8}{8,15}{20,29}{30,46}{63,85}{103,107}{113,117}{131,147}{162,167}{170,179}{182,190}{207,211}{213,221}{33,39}{66,70}{137,143}{171,176}&quot;
+tab1[&quot;Ghost&quot;][15][0] = &quot;66.15248544/Songs/Jubo Impulsion [KB+PAD] (301-450)/Bon Appetit S [Blend S OP][378]/&quot;
+tab1[&quot;Ghost&quot;][16][1] = &quot;¾ÿ¡ÿ•’ÂÿTÿÿe½ÎşkÿSÿEUÜíÿDêÿŸÿìÿ$sêÿ#Uƒ¿ÿ¿ÿ¾İÿ$e½ÿcÿ!ÿ ¯ÿrÛÿ‚ÛÿEÿDr½Îÿ3ÛÿŸş4êÿ3cÎÿF°ÿeİÿGe•®ÿrÿ!ÿ¯ëÿ‘êÿc¾ÿS¾ÿ4sİÿ$êÿ‘şÿdÛÿÖÌÿsƒ°İÿD’ÿ!dÌÿŸìÿDs°İÿÍÿ¯ÿE½ÿF¾êÿ# ÛÿFŸÿ! ÿêÿU’êÿc¿ÿS¯ëÿ4®ÿ3UÛÿ¯ÿDe¡ÿ$rÛÿ3ŸÿE½ëÿDÀİÿEÎÿ%ƒìÿ‚ÿÿ3c Íÿf³Ûş4K ÿ#tÿ‚ÿêÿr¡ÜÿUÛÿSÜÿe½ÿ3¿ÿ!r¡ÿÿ‰¡ÿ#r ÍÿcÛÿS½ÿE¾ÿE®ÿ‘ÿÿrÜÿr°ÿF°ÿDÎÿe¿ÿ4‘ìÿEs°İÿ#SrŸÜÜÿD‚êÿ$E“³®ÑÿDÌÿ•½Üÿ ÿ5ŸÿÿUÎÿ!U’¿ìÿF½ÿD¯ÿ•ÎÿIwïÿ†ÿUÿT±ÿ³ÿ¤ÿU®ÿE¿ÿ¿ÿ5ëÿrÜÿcÛÿcİİÿDÍÿ3‚®Ûÿr¿ÿ5Ìÿdÿ‚°İÿS¿Ìÿd¡ÿD’Üÿ#Ÿëÿf°ÿeëÿU¿ÿFƒ°ìÿƒÌÿD®ÿ#®ÛÿÿÿdÎÿUÎÿ8F¢³àÿ5½ÿD¯êÿ3fÿtÿêÿdÿcŸÛÿS½ÿD½ÿ3Ÿÿ#¿ÿ4ÿÀÀÿ•¯ÿ%3ÎÛÿÍÿDdÎÿdÿ4ÿs¡ÿÿlÿSÿSs¯ëÿ4Ûÿ‘&quot;
+tab1[&quot;Ghost&quot;][16][2] = &quot;{0,191}{3,191}{3,191}{3,9}{11,185}{188,191}{16,21}{33,37}{51,58}{59,63}{64,74}{75,83}{97,102}{108,127}{138,167}{174,183}{109,117}{146,150}{177,182}&quot;
+tab1[&quot;Ghost&quot;][16][0] = &quot;57.51217044/Songs/Jubo Impulsion [KB+PAD] (301-450)/Ugoku Ugoku [Shoujo Shuumatsu Ryokou OP][380]/&quot;
+tab1[&quot;Ghost&quot;][17][1] = &quot;ş®ÿ!½ÿS¿ÿdş§¨ÿ½ÿE¿ÿcêÿ‚¾ÿşÿ|ş!ÿ3?¯şyrÿs‹ÿşSšÿUzïÿFI†Ñÿu¿ÿU“ÿ5íÿ8Tëÿ‚Ìÿ¯ÿ!Uİİÿt¤¿ÿwrÀÿes½ÿ‘Îÿ#tÿ‚¿ÿdŸêÿe½ÿ#4®°ÿF„ÿEäëÿ3dêÿ4ÿc‘ÛÿÿE‚ÿd„ÜÿÌÿcÿ#ÍëÿEÛÿUëÿ4tÿ‘ÿ3¡ÿ$t¿ÿ‚®êÿ‘ÿŸÜÿ!½ÿEÛÿ!T®ÿDÜÿTÛÿ!d¯ÿSÿ! ÜÿÜÿŸÜÿ3½ëÿEÛÿcş¯êÿ#rƒ½ÍÿeìÿU¾ÿÿc’êÿ3½ÿEŸëÿc®êÿ‚ìÿ#c‘Üÿ3¯ÿEƒÍÿ3‚êÿe½ÿ¯ÿ#r¯ÿ5ƒÛÿ4d®İÿ3ÿ‘ÿEs½ÿEÿ4cëÿ‚ÿ®Íÿ½ìÿEƒ¿ÿd®ÿMÿcŸÿ3ìÿdÛÿdÿ$°ÿ¯Üÿe®ìÿEŸÛÿ3ƒŸÿ3ÿ#cêÿ3ÍÿSt¿ÿrêÿ®Ûÿsêÿ3½ÿ$ŸÍÿr®İÿ3tÌÿ¦¯ÿ3T¡ÿ$ Ûÿ!‚ÿÌÿƒÜÿ3sÍÿdÛÿ3d½ÿD‘ÿ!‘ÿ3½ÿ5t¿ÿ¢Îÿ$D ÛÿTÿEÍÿŸÌÿ‚®İÿ$t¾ÿ¦¿ÿDT¡¯ÿ‘ÌÿT ÿDÿ5cŸÍÿd¯ÿD^Íÿ3dÎÿDÿ!S‘Íÿ½ÿSŸÌÿ!rÿL‚®Ûÿc¿ÿG†½ÿS‚°ÿUÿ4İÿ³¿ïÿ#Ft¯ÿSŸÿ!cêÿ4t¡ÿÿ®Äÿ¿åÿrıã&quot;
+tab1[&quot;Ghost&quot;][17][2] = &quot;{0,158}{1,10}{15,158}{1,10}{15,158}{7,10}{19,157}{22,47}{47,67}{70,154}{22,27}{29,40}{70,74}{82,86}{99,104}{113,117}{123,129}{137,141}{145,149}{150,154}&quot;
+tab1[&quot;Ghost&quot;][17][0] = &quot;71.56226544/Songs/Jubo Impulsion [KB+PAD] (301-450)/Here [Mahou Tsukai no Yome OP][382]/&quot;
+tab1[&quot;Ghost&quot;][18][1] = &quot;ÿëÿ#Ÿÿ°ÿ#ÿT®ÿ Ûÿ4Ÿÿ‚¾ÿ3ëÿcÿ4sêÿ ÿrƒÌÿ3ŸìÿcÌÿ3têÿS¯ÿsÍÿSŸÿÖÌÿëÿT®ÿÿSÿrÌÿT¿ÿrÿ3Üÿc®ÿ!‘ÿDƒÿƒ¾ÿ3ÿt¡ÿ4‘êÿEŸÿÛÿ$ŸİÿcÌÿ ÿE¯ÿ!¿ÿ®ÿ#rÌÿ3‚ÿS¡ÿÜÿe®ÿÛÿDÿƒ¾ÿEÿE½ÿÎÿDÿrÌÿ3Ÿëÿcÿ!têÿD’ÿÿTŸÿc°ÿ!ÿS½ÿeÛÿ4ƒìÿÂìÿu°ÿF¯ÿtÎÿS’ÿhÛÿïÿX³Õÿ†ÿ$sìÿ‘ÿ4M‘ìÿ$Uƒ¾ÿŸÿc¯İÿEÛÿS ÿÌãÿ4ƒ°İÿ$c¾ÿ‚šÎÿEÿÛÿ‘¦ÿcÿ3‚Üÿc’ÿÛÿE’ÿ‚°ÿD‘ÎÿUt½ÿE ÿEÿÍÿ¾ÿUƒÌİÿ#TŸÍëÿUc¡Íÿ‚‰êÿDÿ¿ÿ4ŸÿT¡ÿêÿ®¸ÿ!ÿD ÿ‚¾ÿ¾ëÿT½êÿ!óêÿS ÿrÌÿŸÿcÿ!‚ÎÿS®ÿs¿ÿ5‘ÿ‚ÿ;3ëÿ!T½êÿEÿE]ŸÿÌÿD¯ÿrÌÿ!ƒêÿS ÿˆÛÿ4ìÿdÿ3Ÿÿƒ¡³ÿS‚®êÿ¶®ÿrÿDÿr°ÿ#ÿ5®ÿ!ÎÿDŸİÿ$Uƒ“ÿ3ëÿF¡ÜÿFt®êÿSƒ¿ÿÜÿ4UÎÿ5D½ÿEfÿS‚½ÿSÍÿD¿ìÿUƒ¾ÿ#ëÿcÌÿ4F¯êÿ5®ÿ’ÌÿDŸÿdÿ;3tÜÿµ®ÿ5sÍÿSŸÿ#r¿ÿ#fÿTl½ÿôêÿSrŸÿëÿ4‘ÿrÜÿ™ÎÿFÿ.#sÍÿ$ ÿrÌÿ3İÿ®Åÿ!‚ÿZS ÿüşñô&quot;
+tab1[&quot;Ghost&quot;][18][2] = &quot;{0,255}{8,255}{8,255}{8,31}{37,84}{85,100}{102,122}{123,152}{152,163}{164,185}{186,195}{196,229}{230,235}{236,251}{105,110}{138,145}{171,175}{198,226}&quot;
+tab1[&quot;Ghost&quot;][18][0] = &quot;76.01251044/Songs/Jubo Impulsion [KB+PAD] (301-450)/Tori Kage [Darling in the FranXX ED1][405]/&quot;
+tab1[&quot;Ghost&quot;][19][1] = &quot;ÿÿ#FƒÜÿ!¡³¿ÿ54®ÿŸÜÿ#T’ÛÿS ÿŠêÿdŸÍÿTÜÿEÍÿ3®ÿ‘Ìÿ5‚ÿÿTŸÍÿ45ÍëÿTs®ÿ!cŸÿ4¤Ìÿÿd ¿ÿcÌÿ#E¯ëÿ®Ûÿ!Ÿ¾ÿ‚ÿ)¡¯ÿc¿ÿ8F¤ÿ5e’Îÿ$dÿ!Fƒ°ÿ#ÿ	s’ÜÿTÿSÿ4ÿ#T’ÿ4 ÿÿrÿT¿ÿ5t½ÿDÿ!¯ÿDÿ¡ÿcÛÿ¤°ÿ$¯ÿ3 ÿ!Ÿÿ‘ÿÂÛÿ!TƒÛÿdÌÿe¡êÿ!d¿ÿ4ÿ‘ÿE‚ÿr¾ÿ5½ÿDŸÿ‘ÿ‚ÏÿÑÜÿcÿ]c¾ÿS½ÿ3®ÿ!‘ÌÿEÿŸÿƒÿSÌÿ¡ÿ!¾ÿ!ƒìÿİÿ3rÛÿ!ŸÌÿS½ÿD Îÿ!¯ÿ#ÿ#êÿd‘Ûÿd½ÿDÍÿ¶¯ÿ!SŸÿ°ÿ3êÿ4¯Ûÿ#F¯ÿe•Üÿ3ŸÌÿSÜÿÿ‚êÿcÿ)SÌÿT®ÿ!ŸÿŸÿêÿrÛÿ!c‚½ÿSt®ÿŸ¸ÿEÿ¡Íÿrÿ3sÜÿcÌÿDs®Îÿ!Ÿÿ4 ìÿeÿ’ÎÿTÿEÿTrÿ!U’Íÿ ÿ4ÿrŸêÿdÜÿD½ÿE¾Ûÿ!c‘Ìÿ ëÿeÿI’ÿF¯ÿDÿ3‘ÿJ ÌÿU½ÿrêÿcëÿSİÿe¾Ûÿ!ŸÛÿ¯ìÿs¡ÎÿUÛÿdÌÿS¯ÿU¿ÿ#T‘ìÿdeÿ4dÎÿ!T‘ÛÿE½ÿ4®ÿE¯Íÿ!Ÿ½ÿ½ÿr ÜÿcÌÿEÿ3d¡ÎÿTÿ!S°ÿÜòÿcÍÿÕÜÿ4s®ÿ ÍÿSŸÿsÌëÿT‘ş½ÿ4ş.ÿ‰&quot;
+tab1[&quot;Ghost&quot;][19][2] = &quot;{0,194}{3,194}{3,194}{3,45}{46,191}{3,13}{14,41}{61,67}{90,95}{102,113}{117,124}{126,133}{136,140}{142,147}{157,165}{165,172}{173,183}{186,190}{20,25}&quot;
+tab1[&quot;Ghost&quot;][19][0] = &quot;73.71237044/Songs/Jubo Cessation [KB+PAD] (451-500)/Love Dramatic [Kaguya-sama wa Kokurasetai OP][472]/&quot;
+tab1[&quot;Ghost&quot;][20][1] = &quot;ÿ3Ûÿÿw¯ÿrÿ#¾ÿcÿEÿ5êÿ‚ÿ3ÍÿsÿEÌÿsÿ!ÍÿrÿF®ÿS ÿDŸÿÛóÿÿ3‚Ûÿ¾ÿ°ÿ‚şÿŸÿdêÿ5ŸÿÛÿ3ÿ3ÿ3e°ÿU½ÿrÿ®ÿSÜÿ5t¿ÿ$Ûÿšÿ=3 Íÿ‰ÿ-‘ÜÜÿ45’ÿc¾ÿc¾ÿE ÿEŸÜÿD°êÿTÍÿDÌÿ#‘ÌÿÜÿ#’½ÿ5r¯ÿF®ÿSŸÿDŸêÿ4‘Ûÿ4Íÿ$‚Íÿf¡ìÿ4’Ìÿ4r½ÿr¯ÿ#s®ÿE İÿDŸôÿ$ctÛÿT‚Ûÿ3t™¾ÿ!e°ÿrÌÿ,d¯ÿ!s¾ÿc·®ÿ#S ÿd‘êÿLDÛÿ4Íÿ#Üÿ3sÌÿ!Ìÿ!d¡ÿd½ÿSÿ‘¿ìÿEêñÿD¿ÿ4‚ÿ‚™Íÿ4Ìÿ!½ÿ!½ÿdƒ¾ÿ4¡¾ÿSŸêÿDƒêÿTÛÿDŸëÿ#TÌÿ!ÿ3sÿ!dÿ½ÿF’¢ëÿ5 ÿSŸİÿ4Fƒ¡êÿFD ½ÿus¾Îÿş¡ÅşÿF]‘ÿƒêÿTëÿ3Ûÿ3t¾ÿ#Ìÿ!‚½ÿrÿr®ÿF¡°İÿƒ¯ÿtêÿD¯ÿDÛÿ$¿ÿ!s½ÿdƒ½ÿf‚½ÿTj Íÿ#st°Îÿ$S†¿ÿSŸÿT ÿëÿ3‘ëÿ!¾ÿ!r½ÿ!‚ÍÿÇÍÿ5s¾ÿEeŸ¾êÿS¯ÿ‘ÛÿDÛÿUÌÿr¾ÿŸÿD‚ÿFTÿET®ëÿtƒ½êÿ3dŸÿTÛÿ°ëÿU ÛÿÌÿ!d’½ÿ4½ÿ5¾ÿcs®ÿSŸÿEñêÿDÜÿ4ÿEÌÿ3¾ÿd¯ÿ¡Çÿÿ$ş¨&quot;
+tab1[&quot;Ghost&quot;][20][2] = &quot;{0,235}{1,235}{1,235}{1,20}{21,106}{110,127}{127,141}{143,235}{23,31}{36,46}{113,118}{118,123}{130,139}{168,178}{188,192}{200,209}{38,44}{134,139}{170,175}&quot;
+tab1[&quot;Ghost&quot;][20][0] = &quot;80.87251544/Songs/Jubo Impulsion [KB+PAD] (301-450)/Saiaku na Hi demo Anata ga Suki [Isekai Maou to Shoukan Shoujo no Dorei Majutsu ED][430]/&quot;
+tab1[&quot;Ghost&quot;][21][1] = &quot;$hàìÿ)V¤¡Àÿ•½ÑÿGDXİÿGIeÎİÿdfŞÿ6It†¿íÿFŸÌÿcw‘ëÿ¤ ÿ$)5ŸÌÿ¾ÄÿDÍÿ$r½ÿr¾ÿU’ÿ# ÿUƒÍÿTŸÿ˜ÿÿ#S¾ÿDÿUÿrÿ#r’Üÿ4cÿlrÍÿEÛÿ!SŸÌÿ5SÜÿD½ÿ4½ÿ4r®Üÿ#¾ÿ3’Üÿ®ÿU’¿ÿƒ³ÿ#Ÿÿ#ŸÿëÿEs®ìÿÍÿDêÿƒ¾ÿ3’êÿcŸÿ!sÛÿEÿ#DÌÿE½ÿD¯ÿ¯ÿ$®ÿ#®ÿŸÿsŸÿŸÿ5sÌÿÿD½ÿëÿÿ3dêÿd Íÿ#UêÿUÛÿcÌÿEÌÿE¾ÿ¤½ÿ4¯¿ÿ3ÿ3Kr Îÿ Üÿ#Tƒÿ3SŸÍÿFŸ¿ÿE¾ÿ°ìÿE‚ìÿD½ÿ½ÿ3dêÿ3c Îÿƒ®êÿëÿ¯ÿSÌÿ5t°ÿT ½ÿE½ÿDs½ÜÿEÂ¾ÿU’ÿ36‘¿ÿ%euÍÿ4sŸÿ4rÛÿ#e ÜÿDcİëíÿT°¿¿ÿ$w¤ÿryÜÿrêÿƒÿsÿ8³ÿ%tÌÿE¾ÿE¯İÿ4½ÿD½ÿD ÿrêÿ3Ÿÿ3®ÿÿ‚Ìÿÿ‚ÿêÿ¯ÿ3rÿdÜÿcêÿcëÿcÛÿ¤ÛÿS°ÿSÌÿ$¯Îÿ$e®êÿ3r½ÿµ®ÿ ¶ÿ!¨¾ÿƒ©ÿEÿ!SİÿtÿÿsêÿdÜÿ’ÛÿdÛÿÂÿ8sÌÿE¾ÿE½ÿDÌÿ4½ÿD¯ÿ3e Üÿ#UŸÿ# ÿ‘ÿŸÿ‚ÿÿ‚ÿÿÜÿrÜÿdÍÿTëÿT¿ÿSëÿS¿ìÿ5‚¡ìÿ5¾ÿDÿ3F‚¡ÿF„¡½ı+&quot;
+tab1[&quot;Ghost&quot;][21][2] = &quot;{0,183}{4,183}{4,183}{4,183}{4,22}{25,51}{64,68}{69,73}{76,94}{94,113}{137,142}{158,163}{175,183}{4,15}{79,87}{87,92}{95,112}{178,183}&quot;
+tab1[&quot;Ghost&quot;][21][0] = &quot;61.95245544/Songs/Jubo Impulsion [KB+PAD] (301-450)/More One Night [Shoujo Shuumatsu Ryokou ED][381]/&quot;
+tab1[&quot;Ghost&quot;][22][1] = &quot;üE°Íÿ3r’Ûÿ!ƒ„ÿet¿ÿ8ÿ$ ÿÿs‹Ûÿc‘ÿs®ÿ!Ÿÿêÿ3Ÿÿ#S¯Üÿ#dŸÿ!½ÿ3¯ÛÿS½ÿ3ŸÿS“ÿ#T’°ÿ5wìÿŠ®ÿ3ƒ¾ÿ4Xİÿ#c¾Óÿ!S½êÿ3‚Ÿëÿ#¤½êÿd|ŸÛÿDÌêÿ3 Ûÿ!Tëÿ	DrŸÛÿ!F½àÿDŸÂÎÿ#ƒ¨½ÿˆÿkƒÛÿ5Mt’ÿ!‘©ëÿS½ÿ$!ƒÛŞÿd¡Äêÿ#U¯ÿ)hsÿr{ãÛÿS¾Äÿ3¾ÿ!ŸÌÿdÎÿV’ëÿs‰Üÿ#T‚¾ÿêÿrÛÿD®ÿ3Ÿÿ#½ëÿUåÛÿ5Zt°ÿT ÿ!ÿ‚Üÿc¾ÿD®Ûÿ!‚¾ëÿr ÿ8s¯¿ÿSÿ!UŸ¿ÿÎÿU®ÿdsÌÿD¡ÿ! ÿUÛÿc½ÇÿU¾ÿ!‚˜ÿXÿ8ks¡ÿ$ ÿt§¿ìÿ4s¯ÿF‚¯ÜÿDÿŸÿ’íÿIUÛïÿc½ÿ3Ûÿ!EëÿrÜÿFt°ÿ®¸ÿ!‘¦ìÿsêÿsŸİÿ4U½ÿ!‘ìÿ êÿd¿ÿE¯ÿ#’ÿÿdÛÿS½ÿDŸÛÿ,4ÿ#®ÜÿT½ÿ$¡ÿ!ÿÎÿU’¿ÿ$eëÿT‘¾ÿ5‚ÿ’İÿ‚¯İÿ#’ÿ¡ÿGTÛÿlcÌÿ4L¡ÿ!ŸÿT¾ÿ#cÌÿ4®ÅÿEUŸÿsêÿEcÌÿE¯ÿ3‘§ÿt¡İÿrëÿS½ÿ3®ÿ!ÿêÿT½ÿ4®ÿ#ÿ Àÿƒ‘ÿSs¡İÿTŸÍÿÎÿErŸëÿdİÿ3Âïÿ!šŸÿr{ÍâÿSÿDôÿ3ÿµêÿ¾ìÿ$¯ÿ!r‘¾ÿ$ÿ3ÌÿDÿ¦&quot;
+tab1[&quot;Ghost&quot;][22][2] = &quot;{0,379}{15,379}{15,27}{29,361}{365,379}{15,24}{43,47}{56,61}{67,97}{102,118}{129,134}{162,170}{175,180}{201,207}{211,216}{220,225}{235,239}{271,278}{282,286}{306,310}{334,347}{348,353}{369,375}&quot;
+tab1[&quot;Ghost&quot;][22][0] = &quot;71.96255044/Songs/Huzure&apos;s Simfiles 376-400/(Huzure) adrenaline!!! (Eromanga-sensei)/&quot;
+tab1[&quot;Ghost&quot;][23][1] = &quot;üÿ‚ÿãëÿÜÿsÌşE°ÿT½ş3½ÿS®ş!Ÿÿ3ÿˆ ìÿU‚¯İÿ!Íÿ˜êÿSŸÿclÿ4Ìÿ‚˜Üÿ’ÿTm®ÿÿ;3êÿ’ÿFj¯ÿeÿMD ÿSÿ½ÿrÿ3?‚ÿ5ÿr¯ÿ!åÛÿÿEG °ÿcÿsÛÿ‚ÜÿS®ÿs½ÿsÿ3ŸÿIeƒëÿF¯Çÿsãÿ3êÿEŸ¿ÿ½ÿrÛÿ3àÿItÎìÿcÿ!Íÿe°ÿe¾ÿcj¡ÿ!‰Ûÿ—Üÿ5e ÿcÿ!¾ÿ3êÿ5ìÿÍÿÿDêÿeˆ’ëÿU¯ÿÍÿE‚ÌÿS ÿT½ìÿ¾ÿ3tÎÿ$ ìÿ½ÿeˆÍÿD ÿ¤Îÿ$Tÿ5‘Íÿ‚ÜÿŸìÿT¡ÿsÌÿE‘ÜÿD[’ÿcÅ½ÿ!s¾ÿ#ŸÎÿ5Ÿÿ$F½ÿe¾ÿDT ÿt®ş‹¾ÿ$‚Üÿ4Ÿÿr¯ÿU‰âÿ#êÿd¯ìÿ5rŸÌÿ!dÛÿEÿ^Sµëÿcÿ!’ÛÿsŸÿe¿ÿ$ƒŸİÿSëÿ3Ÿ¯êÿZS ÿ#3TÆÍìêÿ‰‘’ëÿe¿ÿ$t¸ìÿDTŸ®ÿwÌÿ3ŸÎÿD®ÿ’®ÿ+ÂÌÿ†°ÿ„¿ÿ)$c°İÿ!e¡ÿDƒñÿ4 ÿdÍÿ4‘ÜÿDêÿSŸÿc¯ÿ!s¾ÿ#óêÿŸÿck½ÿ!Ûÿƒ’íêÿEr¿ÌÿXr¯ÿ!sÜÿ3tÜÿ®ÿs½ÿrÍÿ#FÜÿ$F¾ìÿT½ÿ!Üÿ3ÜìÿD ÿT½ÿÌÿ$ÿDÿ#F¡ÜíÿSş ÿ3şñô&quot;
+tab1[&quot;Ghost&quot;][23][2] = &quot;{0,239}{11,239}{11,239}{27,35}{58,76}{77,86}{86,95}{98,103}{104,119}{120,127}{128,145}{148,203}{206,215}{217,235}{62,66}{109,114}{154,161}{164,183}{186,193}{209,214}{218,222}{231,235}&quot;
+tab1[&quot;Ghost&quot;][23][0] = &quot;71.28225044/Songs/Huzure&apos;s Simfiles 376-400/(Huzure &amp; Itsugo15) Hitorigoto (Eromanga-sensei)/&quot;
+tab1[&quot;Ghost&quot;][24][1] = &quot;ÿÍÿŸÿE‘ÿrÿsÌÿ#ÛÿŸÿc¡¿ÿ5¡Ÿÿ†êÿ¯ÿT¡Îÿ5sÿ=E½êÿt®ÿÇÌÿ‚ÿ3=ÜÿEÿ½ÿeÍÿÎÿ5]ƒ¾İÿc‚½ÿIrÍÿcÿD ÿr’ÿ5rÍÿDÿ^dŸìÿ#c®ÿÿ	EŸêÿSƒÿkƒ½ÿ‹Ììÿ3tÎÿDÿF¡ÎÿÌÿ3ÿDƒÿÌÿ!ÌÿtšÜÿ‘¨ÿT½ÿ‘¿ÂÿDtêÿ‘¦ìÿt¡³ÿ$e¡ÿ˜¡êÿEdŸÿU’ÿs‰Ìÿÿ]SŸ¾İÿU¡ÿ4sÍÿ#ÿE] ìÿ$c¡êÿwÿ3? êÿEƒİÿcÿ!Ìÿ3ôêÿ‘ÿc½ÿ!’Ìÿ3ÛÿE‘¾ÿsÍÿ!Ûİÿ3F ¯ÿe®ÿc¯ÜÿrŸÛÿDÿE‘ÿTŸ½ÿ!sÌÿÛÿ4dŸÿ$clÿtÛİÿEV’ÎÿE‘ÿFt½ÿEewŸÌÿ3‚Ûÿ ÿF’ÿ¡ÿEƒÿFD¿ÿc½ÿsìÿUf¿ÿEÿT½ÿ+¾ÔÿÿEŸÿ¯ÿ4Ûÿ ÛÿEŸÿcÿ!‘Íÿêÿ4Gt¯ÿXƒêÿsÏïÿ)šÿ]d ÿ	cÄ½ÿÿDƒ¯¿ÿ!S‘ëÿƒ½ÿtÿÿS ìÿ3c®ÿÿ3;‚¿ÿS‘ëÿcóôÿ!’ÛëÿD ÿEZ’ÿck¯Üÿ!¾ÿ3Ûÿ4ƒ°ÿc¯êÿ4ÿ#‚Ûÿ¯ÿÍÿsˆ¾ÿUk‚¡Îÿ4¿ÿcİÿeÌÿŸÎÿDeŸëÿF¡ÿ‹ìÿ³ÎÿEŸÿ:=c½ÿDsÛÿD’êÿSŸìÿ3rÍÿrÿ3êÿS®ÿT®ÿdˆÍìÿ#‚ÿSÿcÇ½ÿ’§İÿ)e°¿ÿ$¾ÿƒÍÿ!ÍÿÜşÿÓ&quot;
+tab1[&quot;Ghost&quot;][24][2] = &quot;{0,241}{3,241}{3,241}{5,23}{24,28}{30,61}{65,94}{99,147}{149,154}{156,197}{199,241}{31,38}{69,77}{104,114}{121,132}{157,167}{169,174}{200,206}{216,220}{159,163}&quot;
+tab1[&quot;Ghost&quot;][24][0] = &quot;72.45258544/Songs/Huzure&apos;s Simfiles 351-375/(Huzure) SAKURA Skip (New Game!)/&quot;
+tab1[&quot;Ghost&quot;][25][1] = &quot;ışÿE^ÿ·¾şıÿ{rÿÄÍş!.şÔÛşÿ‹ ÿâÛş3?ÛÿÿDÛÿ$tÎÿ4‘ÿ§ÿSŸİÿŸÿdêÿ5ŸİÿF’ÿc®ëÿS®ÿT®ÿc’ÿr®ÿc¯ÿcÍÿy|ÿ!¯ÿ!¯ÿ!rÜÿ!d°ÿ¾ÿsÿEÌÿ†ÿ)U°ÿÛÿ#‚ÛÿÍÿ$Ûÿ$Üÿ3Ÿÿ$N‚ÿSƒêÿS¿ÿt‘ÿd¯ÎÿEÿ©®ÿS®ÿF®ëÿc¾ÿSÿ#Sÿs®ÿc®ÿ‚½ÿ!d½ÿU{¯ÿrÌÿ!r¾ÿ!r¾ÿÌÿÌÿ!e¾ÿ3ÍÿEs¿ÿ3sÛİÿ#tÛÿ$rtÛÿDşKN¾ÛÿDêÿe¡êÿ3U¯ÿd¯êÿ#cŸÿF ëÿSŸêÿ!s¾ÿc®ëÿF½ëÿSs½ÿ$s½ÿS°½ÿ5s¡ÿd¡İÿe¡Ìÿ!¾Öÿ!Üÿ4e°ÿs¿¿ÿ4‘Ûÿs¾ÿ3Ìÿ!F‚Ûÿ#c½ëÿ#Uÿ=EÍâÿ3Üÿ4‘¿ÿDŸÛÿ4ƒÜÿòóÿD¯ÿDŸÜÿS’ÎÿEŸÿS¶·ÿ®ìÿc ÿc¡ÿc½ÿT½ÿclìÿ5T¯ÿr‘½ÿ!‚¡Üÿr½ÿ4rÌÿÿ#.‘ÿ4¡ÿ#Es¿ÿ!sŸÍÿ!¿ìÿ!¿ÿ#ÛÿƒÍÿ¿ÿ$àÿ94àÿD©şDZŸêÿSÿ^ŸÿEŸİÿS ÿ$d¾ÿFŸÿTÿs®ÿc®ÿ#d½ÿ!r½ÿr¯ÿÌÿ!½ÿ!e¾ÿ!rÌÿ!r¿ÿ#Ìÿ3Ûÿ3Ûÿ!‚Ûÿ#‚¿ÿ$T‚®êşÍòÿ3ÛòÿDÿDMrŸÌêücÿµ¸&quot;
+tab1[&quot;Ghost&quot;][25][2] = &quot;{0,262}{5,250}{262,262}{5,8}{11,13}{16,112}{115,250}{21,26}{31,46}{48,54}{55,77}{80,112}{115,169}{170,200}{211,243}{246,250}{106,110}{118,122}{127,131}{134,139}{148,152}{179,184}{191,196}{238,242}&quot;
+tab1[&quot;Ghost&quot;][25][0] = &quot;81.29232044/Songs/Jubo Cessation [KB+PAD] (451-500)/Chikatto Chika Chika [Kaguya-sama wa Kokurasetai EP3 ED][470]/&quot;
+tab1[&quot;Ghost&quot;][26][1] = &quot;üıs’ìÿ$t¢İÿT½ÿt¯ÿ#F’±ÿ#TêÿS ÜÿSÍìÿDd¯ÿ#U¾ÿc‘ÎÿF‚½ÿ!êÿ!½ÿ5sŸÿ%t®ìÿ$ ¾ÿ$Uƒ¾ÿrÿ!F¡êÿTs ÎÿDs®¿ÿ4eŸ¿ÿ4e‘ÿ#)4‚ƒÌÿ#d ¯ÿ#Tƒ¡±Şÿ5¯±àÿGw„¤Íÿe’¤¿ÿ$GFƒ¿ÿ!G•“ŸÿDcŸ½ÿ3XT‘°ëÿ#c‚¯êÿU¤°½ÿ!5’ÿT¡°ìÿe•ÛŞÿ3Â¿ïíÿ$F“àêÿsÿÿ!tÿ¿äÿUeŸÎÿUêÿ3ëÿtt¯ìÿ^Vƒ˜Óÿ[dÿw’¯ÿƒÿIG†Îÿ$eÍİÿe•Ïÿ)t¤ÿkƒ¤ÛÿwrÛïÿ{ÂÿÂÿesŸ¡ÿ$t¡ÿ5t¿ÿFƒÍÿc ÜÿEr®ÿ!IE’¿ÍÿDXƒÑİÿÌÿ5r°¿ÿcŸ¿ÿc¿ÿdt®İÿ4L‹¯ÄìÿLDÿUt Ìÿ!d‘ÿct°Ûÿ3F®ÿS¯ëÿ!Dtÿ4ZTÌÿSr ÛÿlsŸÛÿ!UÿI’İÿTsÍÿt•“İÿ5t¿ìÿ%VÛİÿ6DŸ¿ÿUŸ¡ÿEXêÿ¯ÿÿS[¾şÿrÌÿ#êÿcÿ+!òÿ®¸ÿş{ÿ3Ÿÿ°Çÿ#şŠêÿ5®şMŸÿU°ÿ™ÿdÿ+.ÛÿDU®°ÿ!$’¢Âİÿf’ÿ)U¯°ÿ#$ƒ°³êÿ#c°¯ÿ!IVƒŞÿU¤®Îÿ$hÑìÿ84ƒ°Âÿ$XctÀÿ$)“ ³ÿF‘¯ÿ#SİÜÿe¡¤ÍŞÿe °ÿe• ÿ)Gh’¿ëÿ$Ÿ³¾ÿ6u¡³àÿU¡³¿ÿ$e¡ÿ4®ÿ4ÿÌÿ‚’¡ÿ‘İÿUt’ÎÿUe¿Îÿ%!tÎÍÿFs¤¡ÿŸÛÿ‚Ìÿ3‘°Îÿ$T“İíÿS Îÿ8FeÜÿ5ÛÿD ÿ#Âÿ$$)r‘ìÿUt¾ÎÿTwŸ³¯¿ÿw‚ÿ5tÍÿD ÿs’ÿLrÿ3ÔÕÿÌÿ:=5¯àÿêÿSt ¿ÿ¡ÛÿDVhÂ¾ÿ•‘Âİÿy|ƒ°ëÿ6½ÿ#t„ÿIF•³Ñìÿ5 ÑÛÿ5SƒÂëÿe§©Ûìÿ$ƒ³ÿ$’íÿ)esÿI¤ÏÎÿ5IG†’¤Îÿãäÿ4r°ÿ3Ÿÿ$c½Şêÿ)Uf†„íÿr‚¤İÿ!I¤ Ñ&quot;
+tab1[&quot;Ghost&quot;][26][2] = &quot;{0,262}{15,262}{15,148}{152,262}{15,137}{165,262}{15,69}{73,91}{92,136}{166,197}{200,226}{230,262}{39,68}{94,104}{105,109}{113,119}{124,135}{167,197}{202,208}{210,215}{219,225}{233,239}{241,248}{248,255}{256,262}&quot;
+tab1[&quot;Ghost&quot;][26][0] = &quot;27.46378044/Songs/DDR A/Astrogazer/&quot;
+tab1[&quot;Ghost&quot;][27][1] = &quot;ş¯ÿU¯ÿ|ÿd¯ÿ!®ÿmcÿ·®ÿcÿ¯·ÿ¡şkÿİÿ%Vm¡°ìÿ5’ìÿ$E¿¿ÿ3XSëÿ	ET¯ÿS[İíïÿ)5 Àÿs¤ìïÿIŸÿEZd‘Ìÿ‘¿ìÿ$UŸÜÿdŸÿE[ŸÜÿ‘§êÿDÿ$K¿ÿ$Ft¿ÿ5tÜÿ$Íÿ3ÿİêÿDtÍÿ4Íäÿ4‚Îÿ$tÛÿ# êÿT‚ëÿ†ÿ8†Ñÿ)e°İÿ#s¿ëÿ#Ìÿ3¾ÿs¿ÿ#e¿ÿ#r¾ÿ!Ìÿ3‘¾ÿeu½ÿs‘½ÿ4Fw¾ÿ$Ìÿ!¡ÖÿF°ìÿU¡ÿr½ÿdÿ,¯ÿU½ÿ|rÿd¯ìÿFt ÿdÿT¯ÿT®ìÿ¶½ÿcÿ5t¡ÿ½ÿFt ¾ÿE ÿS’ëÿ·®ÿ’ëÿ¤ŸÌÿcƒ‘ìÿX¯ÿ5r‘ëÿSİÿEŸêÿ!S¿ÿSÜóÿS’¯Üÿ$Ÿÿ4‘¿ÿ5ŸôÿSÿMDÿ3LÛÿtÍÿ$t¯Üÿ3ÛÿÛÿ5•ÿ‚ÿ’°ÿ°Ïÿt¢³ÿ$G¿İÿ#es¾ÿ)X†ÌÿEŸíÿ#)U¤Ìÿ‚ŠÌÿe¾ÿ#s¡ÿ.e ¾ÿ#UÿrÌÿ!eŸÌİíÿSs¿Ìÿ!d|Ìÿd¯Îÿ4r½Üÿ!r•ÿc½ÿtÂ½Îÿ#4¡ÿ5d’àÿ!‚ÿFh‘ŸÎÿ!Æ½ÿd¡ÿc½ÿ$tƒÿce®Îÿ# ÿS®ÿSfe¡İÿE’ìÿ% Îÿ5 ëÿSŸ¶ÿ µìÿ5 ëÿ5ƒëÿS‘ëÿ °ÿ5‘½ÿDr‘½ÿ4ôÿSëñÿ$ôêÿ4ƒ¡êÿDU¯ÿDŸÿ$àÿ•ÜÿT¦ŸÿLTóêÿ4š ¿ÿ4‚Îÿ4tëÿ$‚Íâÿ$F‚Íÿ3‚Íÿ$ÿ#8ëÿt¤¿ÿ3Ûÿÿ3sÛÿ¾ÿ#Íÿÿ3r¾ÿe½ÿG¢Îİÿ!U‘¤Üÿr‰ÎÌÿ4S’ÿ)w’ÿyz&quot;
+tab1[&quot;Ghost&quot;][27][2] = &quot;{0,255}{2,255}{2,9}{13,255}{2,9}{13,34}{35,43}{46,84}{86,97}{99,108}{109,238}{239,255}{13,19}{20,26}{27,31}{57,61}{71,78}{101,105}{109,117}{120,124}{133,137}{142,155}{158,170}{170,182}{183,187}{190,194}{202,208}{246,254}&quot;
+tab1[&quot;Ghost&quot;][27][0] = &quot;53.12283544/Songs/Huzure&apos;s Simfiles 376-400/(Huzure) Wagamama MIRROR HEART (Masamune-kun no Revenge)/&quot;
+tab1[&quot;Ghost&quot;][28][1] = &quot;Ûÿıÿ3ıÿyrıÿ·½ıÿìÿ	ıÿ4Mıÿˆ şÿ?3şÕÛşÿz‚şÿÍÿd’ÿd½ÿTÿ¾ÿTÿ®ÿSëÿS®ëÿS‘ëÿ3c‘ÿ^Üÿt¿ÿDÿŸÿ4‘êÿ ÿDÜÿÿ$ÍÿÿÛÿt’ÜÿcƒÌÿsÿFƒ¡ÿDrÿÇÌş5‚„ÿt‚†Ïÿe¤½ÿl‚ÿ4s¡Üÿ4cÿ¡ÎÿFƒÌÿT ş¦ÿŸ°íêÿS’Ÿêÿ)D©¿½ÿ!It±¾ŞÿE‚’êÿSt¯Ûÿ!‚³¿ÿ$5³êÿeuÍÎÿ4h‚’³Íÿ3ÿe‹ Ûÿ#X„Ûÿ#SeŸ¾ÿEuƒ°ÑÿSsw¾íïÿ¤°¿ìÿ!ISs‘¡ÿ$4d‘½Îÿ!t’ÂÎÿDh’¿ÿ84F¡°Şÿ48Ft’¿Ïÿ5„‚¿ÿ##ec„±ÿ5VƒÀÿGTu¿ÿSe†ƒ¡íÿ$t‘¤ÿ5S¾ëÿ5f±ÿFtÀİìÿUeÌÜïÿFdŸÿ4¿êÿFV’Îÿ4t®ÛÿFU®¿ÿ%Df„ÿ3F ®ÿ$85³ÿ?†°¿İÿ#VS“ÿ!d¢İÿe†ìÿwr¤®ÿ!6Ud¡±ïÿSewƒÌÿwƒ„„’ÎŞÿDr¿ÌÏÿ$¡±ÂÿUt¡ÿz³Üÿ#‚‚ƒíÿThÿ3¡®ÿ†ƒ¤Ìÿ ¾ÿS¡Ûÿ$e†ƒ‘ÿUS¾İÿSƒÂíÿ•ÎÿeŸÜÿ4eŸ¯ÿƒ“Ûÿ4d°ÍÿV†³âÿc‚½Ûÿ$4³ÿ;ÌÿVcÛÿG‘ ¤ÿtˆŸÎÿ#e ¾ÿ#ÂÜÿFS“¡¯ŞÿItŸ±ìÿId“Îÿ5’¯ÛÿDr‚½ÿ|‚ Ûÿs İÿ$hsÏÿ‚ƒ’ÿFXe®°ÿm®Ûÿ$!F’ÿ)‘·ÿS^’ÎÿUt¿ÿ$ìÿ‘şñô&quot;
+tab1[&quot;Ghost&quot;][28][2] = &quot;{0,184}{1,184}{11,184}{16,184}{17,29}{31,150}{151,178}{33,59}{61,88}{89,106}{110,122}{130,134}{143,148}{153,166}{169,177}&quot;
+tab1[&quot;Ghost&quot;][28][0] = &quot;36.03285044/Songs/Jubo Cessation [KB+PAD] (451-500)/Rightfully [Goblin Slayer OP][454]/&quot;
+tab1[&quot;Ghost&quot;][29][1] = &quot;¢ÿÜşÿ#ÿDÿdòÿÿ¨ÿE¯ÿEÌÿcş‘ÿ®ÿeÛÿUÜÿˆÿ‘ÿ#½ÿDÌÿUƒÎÿ4eÿŸÿ3r¯ëÿ$ƒ¿ÿd Üÿ3s°ÿS‘ÿ3d½êÿSÿ!cÜÿÿŸÜÿ$U¡ëÿDÛÿc ÿ‘ÌÿTŸÛÿ#e®ÿŸ¿ÿdŸÜÿ•ÿ5d®Ûÿ#d¡ÿSÌÿc®êÿ4½ìÿT‘êÿ3r¯ÿS‚Ûÿc®êÿÌÿŸÿ3ÍëÿEÌÿ3c½êÿDÿ)Ÿ³ÿ3IìÿSƒÍÿs ÿXìÿ“¿Üÿ3¡Ñÿ$°ÛÿcwÿXÑÿŸ³ÿ3¡Ïÿ¾ÿ3dÿD¾ÿŸÜÿ¡İÿ5dŸÛÿ!Tÿ$e‘Ìÿƒ“ÿIr†®ÿ5ëÿêşÿ3;tÿEÌÿU İÿ$t°ÿc‘Íÿ#d®ÿÜşìÿUÿ#ÍÿD¿ÿdÿÿ#¯ÿ3ÍÿSÛÿcÿt‰¾ìÿ5t¿ÿd¯ÿE Íÿcÿ3s½ÿŸÿ3½ÿSÜÿr¾¿ÿÿŸÿDÍÿSÛÿr®êÿÿ!‘ÿ3®ÿeÿcÿÿ¯Üÿ3½ÿS‚ÌÿdêÿÿŸÿ3ÿEÍâÿrêÿTìÿƒÛÿ½ÿDÌÿcêÿ‘ÿŸÎÿ#d¯ÿEÛÿ4r®êÿ‘¾ÿSÿD½ÿSÛÿrêÿDeÿ§®ÿ3¡İÿS‚Ûÿ‚®êÿ4‘ÿ‘ÿ#ÍÿSÛÿdÿÿƒÿU½ÿDÛÿ!®Üÿsÿ¯ÿEÍÿÍÿyrêÿÌÿ‘Ûÿ3r¡ÿS Ûÿrêÿÿ!Ÿÿ3½ëÿE‚Íÿrş&quot;
+tab1[&quot;Ghost&quot;][29][2] = &quot;{0,162}{3,162}{3,162}{14,162}{18,76}{78,85}{93,110}{112,116}{125,141}{152,159}{24,28}{33,37}{42,46}{50,58}{60,65}{68,75}{79,83}{95,99}{127,132}&quot;
+tab1[&quot;Ghost&quot;][29][0] = &quot;73.72213544/Songs/Jubo Cessation [KB+PAD] (451-500)/Moffu Mofu de Yoinojayo [Sewayaki Kitsune no Senko-san ED][481]/&quot;
+tab1[&quot;Ghost&quot;][30][1] = &quot;üışÿÎş%Xİÿ%ÿX®ÛÿXÿX¤ÿ¤ÿSÎÿ%’Àÿ†¤ÿ!SsŸÿ3Ÿÿ3ŸÿSÌÿcÛÿSïÿ$¡ÿÿŸÿ!Îÿ3’°ëÿw’¤ìÿ5 ëÿE’İÿFŸÿSŸÿT’¿ëÿ#E Íëÿ#Ss¿¾ÿ!dÿ·ÿTe®¾Îÿ’İÿ)FU¢ëÿS†ŸÌÿ!d¿ÿXƒÎÿu¤İşƒ†¹ÏÿƒÿX¤ÿ¾ÿ%e¯ÌÿUS’°ÑÎÿ5eƒÜÿ5Fs¡®ÿFŸÿSt°ÿssÌÎÿ5ŸÿUuÿ#e°¾ÿ5 ÿT Ûÿ5Xf®ÿ5’Ûëÿ3s®ÿ3c®ÿd¾ÿ$s¾Ûÿ3ƒ¯ÛÿFtŸÜÿ!S¾ëÿ$S¾ÿSÛÿS¯ÿ!Ÿÿ3eŸİÿ)Sw¾ÿGUw¤°¾ÿEs®¿Ñÿÿ·ÿ%!’¡ıÿëş]ÿ ş	ÿSZÿFÿ5ÿFÿEìÿ	5 ÿ¾ÿ’ÿ’ÿ’ëÿEÿ	¤ÿ5XuÎÿ“ÿ5XÛÿFX’ÿS¾ÿ5XUÿXs¤ÿ5¤ÿe¤Ÿÿ†’¤ìÿSÎÎÿE¿ÿ%$’ÿ$tÿ$¤ëÿdŸÿ#$suÎÿGS®ÿc¿Îÿ#$sƒƒÛİÿ!“’ÿTŸëÿS ÿed°¾Ïÿ#ƒ¤Îÿ#EïÿS’°ìÿtìïÿGƒ¾ïÿEƒ°Àïÿt °ÿ$c®íÿ$$íÿ5ƒ¯ÿFs¡İïÿ)EŸÛÿƒ’ìÿVs¾ÿS İÿEd‘¿¾ÿFE¾ÿ3SÎÿ%ƒÛİÿ53®ëìÿw’¤ÿE‘ŸÿE®Ñÿcİÿ$]dŸëÿS¶®ÿTŸ·ÿ#ss¿¾ÿƒ®ÿS®ÛÿS‘İïÿ)F’¿İÿ3EÎïÿ5ïÿ5®ÿSÎÿ$tİëÿSİÿFU °ëÿ’¤ÿEìÿ’İÿ‘¤ÿ¤¿ÿEÑÏÿE¤Àíÿ)c¡ÀÿFìÿ$Es¯ÿ5X†İŞÿ¤ëÿŸÿFŸİÿc’ÎÿSİÿS ÿEuİÿ ëÿ%ƒëşeƒ¿ïÿTŸÌÿEs¯ÿ)$s’¤ìÿXc¾ÿ$¤ÀŞÿec°¯ÿ$w¤ ÿF¢¡ìïÿc®ÌÿFƒ°ÑÿFew¿İÿ3ƒ¤Ñÿ6dsw¾ÿ$Xu°ÿƒ¿ÿ$s°Ñïÿ%X‘Îİÿ)e¤¾ìÿXƒƒ¡Ûÿ5UwtŸÌÿXSwï&quot;
+tab1[&quot;Ghost&quot;][30][2] = &quot;{0,452}{11,79}{84,159}{165,166}{174,452}{11,25}{30,43}{46,79}{84,159}{165,166}{182,452}{11,22}{50,55}{67,79}{84,107}{108,118}{123,137}{139,144}{145,159}{196,234}{236,245}{252,266}{268,279}{284,293}{295,306}{320,325}{327,341}{350,385}{388,400}{401,431}{433,452}{12,18}{84,105}{152,159}{200,205}{208,215}{220,233}{363,373}{440,445}{84,104}{86,91}{94,100}&quot;
+tab1[&quot;Ghost&quot;][30][0] = &quot;22.31350544/Songs/DDR A/Cosy Catastrophe/&quot;
+tab1[&quot;Ghost&quot;][31][1] = &quot;ışÿÌÿeÿFeìÿ)e¡Îÿ6‘ÿ)tÍÿ!d ¿ÿ$¡ÿIdÍäÿ4c¡Íÿ3ƒ°ÿ5¡ëÿ ÍÿFÌÖÿ3M¡¸ÿ-ƒ§İÿ$s ÎÿFƒ°ìÿ$e’Îÿ$Ûÿÿu‚ÛìÿEt¡ÿ#?r’ÍÿF‚ÏÍÿD®ÿc½ÿDd ÿ8“¤°ÿ$sÜÿc‘Ììÿ4e®ÿ3c¯ìÿÜÿ3c¿Ìÿ5‘½ÜÿEU¯ÿ!‚ÌÿDcŸÍÿSÌÿ4 ÿc“Õÿ‰êÿSt°Îÿ$®ÿ4¾ÿS®ÿ©Íÿÿ#®¿ÿ5t½Îÿ#¡¢ÿFd¯ÿ5Âïÿ8¤ÿU¾ÿ!c ¯ÿ ÛÿëÿDd¡êÿ!sŸÌÿS¡®ÿ!ŸÌÿEs½êÿ#d‘ÍÿD¯ÿDdŸÍÿd‚İêÿUe¿ïÿ5ÌÿUyŸÿ.İÿDe¡ÜÿsÜÿÛÿT‘ÿKÿ#ÛÿU’•±ÿc¿ïÿ¯ÿcÍÿ‚¯ÿD ÿEëÿdŸÿ!EÌÿ$êÿÿ ÜÿT¿ÿÿ#?Ÿ¾ÿE¡İÿTÿ®ÿ3ÛÿÿŸÿE½ÿd®ÿÿDêÿcÿ®ÿ.!Ìÿêÿc¿ÿ4òóÿ#Ÿÿ!EsÜÿ3Ÿÿ¿äìÿ†şÍÿF ¡ëÿ¡Íÿ!SÀàÿ)UÎÿ5‘¢ÿ#$ÿITfİÿt¯Üÿ$Uƒ¿ÿ#EÍÿE¯ÿ!E‚¡ÿrŸÍÿet½ìÿE®ÿ!‚ëÿêÿ!Sƒ¾ÿD®ÿ4tÿ#e½êÿc‘ÌÿD¯ÿ#UƒÿSsÿr ÛÿS‚°¿ÿDt¤¿ÍÿchëÿUe¿¿ÿ!dÕÌÿLT ·ÿ+3©°İİÿDÂÎİÿTŸÿT½ÿ3c‘Ìÿ4ÜñÿEc¿Ìÿ!SÇİÿ3c®¿ÿS¯ÿ3c Ûÿ[cÌÿ3rŸÿ!.d½ëÿ4rÍñÿ#cÜàÿDX¸±¾ÿ#%t¡ÿÿ¦¾ÿsÿ#ƒÿsÿ.$#dÿ½&quot;
+tab1[&quot;Ghost&quot;][31][2] = &quot;{0,398}{15,398}{15,226}{227,231}{233,238}{239,244}{245,383}{387,398}{16,42}{45,55}{57,103}{105,111}{122,159}{161,169}{170,175}{187,193}{271,305}{317,322}{328,340}{344,350}{351,383}{331,335}&quot;
+tab1[&quot;Ghost&quot;][31][0] = &quot;63.56286544/Songs/Huzure&apos;s Simfiles 376-400/(Huzure) TOMORROW (Kono Subarashii Sekai ni Shukufuku wo! 2)/&quot;
+tab1[&quot;Ghost&quot;][32][1] = &quot;üışIıÿwıÿ¤şÿIşàşÿwşÿş¤şÿ8şÑşÿhıÿ¤ıÿÂışıÿ)ıÿhıÿ•ıÿÂıÿïşÿ†şÿ)ş³şÿXşàşÿ†ıÿ³şÿIşàşÿwÿÂ&quot;
+tab1[&quot;Ghost&quot;][32][2] = &quot;{0,180}{22,22}{30,30}{38,69}{78,78}{85,85}{94,94}{102,102}{110,110}{118,118}{126,126}{134,157}{166,180}&quot;
+tab1[&quot;Ghost&quot;][32][0] = &quot;037504/Songs/DDR 2013/ACROSS WORLD/&quot;
+tab1[&quot;Ghost&quot;][33][1] = &quot;üışÿrÍÿ4Ÿÿr½ÿD ÿcÍÿF ÿE®ÛÿDs Íÿ3r‘ÜÿFXe°ÿFt¤ÎÿS½ÿ!ÌÿÿŸÿ3ÿÄÇÿÛÿS¾ÿ®ÿ4½ÿcÿòóÿ ÿsëÿDÌÿdëÿ‘ş,.ÎÿD¾ÿ#rÿ‘ÿ3°ÿ!E‚¡ÿ!ÜÿrÛÿ4Ÿÿrÿ3ÿÍÿ ÿd’ìÿd’ÍÿŸÿƒÿ4ÿ½ÿeÍÿ$ƒ°İÿ6¾ÿ$ƒÿT¡ÿ!êÿd®ÿd¾ÿ$FƒÌìÿDc½àÿ$T¡ ÿ4SÇÿˆ‰Ûÿ]^ ÿc¾Îÿ3T¡ïêÿ‚“³ÿ!¡ÿ6sw¤ÿVƒ¤Âÿ8ƒÿfrÎÌÿ%†àÿI’¤ìÿ.eŠ¿ãÿK¤ìÿ°ÿ6t“íÿ5X¡ÿIVÿIGƒ¤ÿ8ehfÌÿh•ìÿV’±½ÿ%†„àŞÿ$$’Şÿ¿åÿ§Ÿİÿy’Õÿ)3Ÿ¾ÿe‚’İÜÿ5F‘Ûÿ¡ÿr‘ÿc‘Àÿrİÿ!5¡Üÿcw®Ñÿ!âÛÿ4MŸ©ÿ#ÔÌÿÿc†‚½ÿ!It¯Àÿ5ƒÏÿ6‘¤ÿ#8F‘°Àÿ°ÿ#ttÍÜÿ4E¡ÿIUÿ‘ÿ‘ÿ3ÜÿT’ ÿ!®¿ÿEŸÿ$dÌÿDŸëÿcÌÿ3¡êÿS®Ûÿ!rëÿ5‚’ìÿ#c¾ÿ3‚êÿTÍÿ!‘ëÿS®ÿ!d‘Íÿ3rŸÿ$s½ÿ#ÿ!c®ÿSrÍı½ÿÎÿ4ş#FŸ¡ÿX³ÿÍêşEsşdŸ¾ÿcÿFŸ¡êÿ#ÿ$e¡şƒ¡İíÿtƒÜÿfÜÿEÿ’ÌşUƒÿ•Ÿÿ)T†½ÿeêÿS®Ûÿ#4’ÜÿD¯ÿ$3c°½ÿ4S¡êÿ®ÿFd‘¿ëÿ5T¡®ÜÿUÛÿ3cŸ¾ÿsŸ½êÿ!ÛÿSU °ÿ$sƒÏìÿTŸÿsƒÿIt†¿ÿ$wÿhs¿ÿ4h’Âëÿ)d•ÿ)3½ÿ¤ÿ°ÿE&quot;
+tab1[&quot;Ghost&quot;][33][2] = &quot;{0,219}{19,219}{19,39}{41,46}{49,54}{57,166}{171,219}{19,37}{41,46}{49,54}{57,67}{72,75}{80,166}{171,219}{24,34}{88,96}{98,145}{147,153}{155,161}{162,166}{171,216}{27,31}{90,96}{98,117}{129,140}{172,191}{196,201}{99,106}{107,114}{131,138}&quot;
+tab1[&quot;Ghost&quot;][33][0] = &quot;41.48276034/Songs/DDR A/Vanquish The Ghost/&quot;
+tab1[&quot;Ghost&quot;][34][1] = &quot;ûıÿ! ÿÛÿrëş! ÿDÿrìÿƒÿ½ÿDÛÿrëÿŸÿ!½ÿSÍÿdëÿÿ!¯ÿDƒÍÿU’ÿDX‘¿ÿd ëÿ$t°ÿ#U İÿ5e°íÿd½ÿÍÿy|ÿFS¡ ëÿ)D‚‘¾ëÿ5EwŸÍÿd¡ÿ‚¡Ìëÿ3S’ ÿ$)SdŸ®ÿ!‚®ëÿ4‘ÿ!$dt½¿ÿ$Ud®¿ìÿFdd½ìÿ4t¿ÿ4½¿ÿEtÛİÿ4r¡ëÿ5t¿ÿ$ruÿFS„ ÿ$)Xr®¿àÿ$wtrìÿc¡ìÿS°İÿEd‘®ëÿ$4tÂÍÏÿFXr½ÿ5ftÛÿUƒ¡°ÿSU’ÛëÿEF¡ Âÿ5X‚¿ÿrììÿ$F‚ÎÛÿEXcw¡àëëÿSf ÌÿU½ÿX ıÿ+ş|ÂşÿTÿ)rëÿ‚ìÿ®ÿ5dÌÿ4r½ÿ!D¢ÿ!U’¿ÿ4‘¿ÿdÿŸÿ!r¯ÿSÍÿrÿÿ½ÿSëÿ3dÿEÿEd®ÿSÍÿr ÿÿ!¯ÿDÍş˜™ÿ#Ft ëÿ$d¡Ûÿc„İÿdt•¯°ëÿ4¸®ëÿD ÍÿE½ÿFS‚Ÿÿ!SrŸİëëÿ$4‘ëÿ!rtÛÿTt¿ìÿdƒ®ÿ#DåëÿFr½İÿ4U°°ÿ!U½ëÿ4U‘¡Ûëÿ34‚®ÿ)eİàÿfuÂÿ•’Ûİÿ4D’ÿ4tÌëÿ4D’Ÿÿ5DÛÿDd®Ûÿ!SÂ¿Ìÿ!d®Íÿ4DŸÍÿ4U¾Ìÿ$e¡ÂÌÿwr½ëÿ!DrÛíÿFrş+„ÿ3ëÿSd½İÿDc®Íÿ#Et ÿ#e•Îëÿ!FŸÍÿ$ErÛÿEc¯Îÿ56¢ÿS¯ÿ!rŸëÿr‚ëÿDr’ëÿw’•¢íÿet¾İÿ!F‘¡ÿcÿ)Â¿Íÿ$Xr¢İÿD ¯ÿt’İàÿUƒ¾ìÿ5FƒİëÿÂÍÛÿDew®¿ÿ$t¡ëÿDt Ìÿ!t‚ÍÿUT ¿ÿ!rİëÿ5E àëÿw’Íİÿ!$ct½¿ÿ#Ft’Íàİÿ’¿ÿF¡ëÿDş˜™&quot;
+tab1[&quot;Ghost&quot;][34][2] = &quot;{0,339}{35,148}{155,339}{35,39}{40,44}{45,49}{52,148}{164,207}{211,272}{275,339}{64,80}{81,148}{169,181}{192,196}{198,202}{211,272}{275,339}{83,107}{108,146}{211,231}{236,271}{275,338}{83,89}{90,96}{99,104}{113,121}{123,128}{131,137}{138,144}{223,227}{246,251}{254,259}{328,337}&quot;
+tab1[&quot;Ghost&quot;][34][0] = &quot;52.01323034/Songs/DDR A/Prey/&quot;
+tab1[&quot;Ghost&quot;][35][1] = &quot;ÿ¾ÿƒÿsÜÿ¾şÿ-4S°½ÿ#rÿ[cÌÿ½ÿ3Ìÿ¡İÿU¿ÿ5½ÿ4 ÿ!tÌÿ#s¡ÎÿFƒ°ÿ4½êÿr®ÿ‹¯İÿ$UŸÍÿEİÿ3¾ÿS½àÿ$‘Îÿ!tÌÿÆ½ÿ3uÿ‚İÿ’ÿc°ÿ5 ÿ#sÌÿ!êòÿr¿ÿE¯ÿD’ÿ!FÎÿeÎÿs¯ÿD¾ÿ$Ÿÿ!‚İÿ#d’ÍÿS°ÿ5®ÿƒÿsÿc¾ÿE‚¯ÿ3rÛÿÿ°êÿT¢ëÿ$e¯ÿ©ÿeÎÿUŸÿtÿ$’ÿ!tÿT¡ÜÿT¿ÿ5¯ÿ#‘ÛÿEÎÿ$ ÛÿF½ÿ4rêÿ3‘Ìÿ5êÿcëÿD¯ÿ#ŸÛÿeëÿ‚ÛÿsÌÿEs½ÿ3ÿSÿ¶êÿc¾ÿ4ÿ!Tÿ‰ÜÿcÍÿE°ÿ4ÿSëÿrÿFkÌÿ®ÿ3‘ÿ½ÿT ÍÿS°İÿ$d êÿ!SÌÿT‘½êÿFcÌÿd„ÿ#r‘¾ÿEÿrÛÿSÌÿ3½ÿ4¯ìÿrêÿtëÿFt¯ëÿ4d‘êÿ!şÿÅşˆ&quot;
+tab1[&quot;Ghost&quot;][35][2] = &quot;{0,128}{3,128}{3,128}{7,95}{95,103}{104,128}{17,33}{42,46}{48,52}{58,62}{70,74}{76,85}{107,120}{122,128}{110,114}&quot;
+tab1[&quot;Ghost&quot;][35][0] = &quot;76.32149544/Songs/Jubo Impulsion [KB+PAD] (301-450)/Aimai Moko [Tsurezure Children OP][356]/&quot;
+tab1[&quot;Ghost&quot;][36][1] = &quot;şÿdÿ3ŸìÿdÍÿ5¡ÿ!VİÿtÎÿDƒëÿdÌÿ4rÍÿ4sÜÿ5‚¡Ûÿ!½ÿ!cÌÿDŸëÿdÛÿd¾ÿ4êÿT½ÿ#ŸİÿU°ÿDïÿh¿Ñÿ®ÿÿjcÿLDëÿDeÍÿ5®ÿêÿT¯ÿ!¯ÿrÛÿ4ŸÿÎÿSÿ!°ëÿT¾ÿŸÿr¿ÿ4r ÿêÿ½ÿÿrÍÿD®ÿÜÿtÍÿ!c‚¾İÿr°ÌÿDdŸìÿD®ÛÿSsÜÿêÿ!SşzşÿcİÿÿsˆÌÿS’ÜÿD‚½ëÿ5r½ÿ$8w„ÑÿIt½ÿŸÿrÛÿD¾ÿ#‘ÛÿS®ÿ!İÿc½ÿ3‘ëÿ‚ëÿS®ÿ!sêÿT¾ÿ‚ëÿdÛÿe¿ÿ!êÿc®ÿtİÿF°ÿ3Ÿİÿ‚ÿ ¸ÿVŠÿFkÌÿU½ÿDcş#eÛÿEÿs°ÿcÌÿDŸÿ5®ëÿdİÿ4‘Ûÿcÿ3‘ëÿÜÿ¯ÿÿc®ÿ!ëÿƒÌÿeÿrÛÿTÜÿêÿÌÿŸÿcÿD®ÿÛÿVt½ÿ%3I°İÿcÿEŸÿrÛÿD¡ÿsÛÿFÿ#ƒÿÜÿD®ÿ¡êÿ!Ss®ÿ!½êÿ3cÜÿDŸÿ’ÛÿD®ÿtÿcİÿ3ƒÿDdÿ¸ÿÿZ[®ÿcÿcÿDÿeÛÿ®ÿ!êÿT½ÿ#‚ÿdÌÿD®ÿÿc½ÿtëÿcŸ½ÿ#ŸÿTr¯ÍÿD®ÿ!êÿt¯ÿ3ÿÂ¾ÿ3¾ÿ5sÛÿS®ÿtİÿU“ÿF°İÿdƒÿ4®İÿ$sşÿl&quot;
+tab1[&quot;Ghost&quot;][36][2] = &quot;{0,211}{3,67}{72,211}{3,67}{72,211}{3,31}{32,45}{45,67}{74,113}{116,127}{131,139}{142,154}{155,171}{180,211}{12,20}{57,67}{75,84}{144,148}{158,165}{190,197}{205,210}&quot;
+tab1[&quot;Ghost&quot;][36][0] = &quot;74.08209534/Songs/Otaku&apos;s Dream Mix 3 -Pad-/(Grc-009) Be My Friend (Boku wa Tomodachi ga Sukunai Next)/&quot;
+tab1[&quot;Ghost&quot;][37][1] = &quot;ÿ½ÿ6Ÿÿ5“ÿ4eÌÿs’Íÿ#ÿe‚šÿ4Lƒ°Îÿ!D¿ïÿ)S¯¾Ñÿ!c®ÛÿUc®Ñÿ$U½ÿÌÿrÌÿ3ÛÿEÛÿ!‚êÿD¯êÿDƒÎÿ4‘ÿSd®¾ÿ3ƒ¤ÿ#c¾ÿ#c¯ÿrÌÿs¾ÿsÿ3Ûÿÿ3êÿŸÿDŸêÿ$d‘ÿE®ëÿS ÿ6ÿV’Íÿ!eÌÿ4‘Ìÿ!sÌÿtÛÿ3ŸÛÿ5ƒÜÿDdŸİÿ5‘ëÿd®ÿF¡ÿF°ÿd¡İÿ!e½ÿ#Ìÿ3S‘ÿ;3c‚ÿ4NÍÿSƒÿEƒëÿS®ÿ5 ÿc®ÿc¯ÿ!’½ÿ!rÜÿ4‘¾ÿ3Ìÿ#t¿ÿ$t¿ÿDŸÿTïêÿ¤ÎÿG¤Îÿ¡³İÿc°ÿd¯ÿ!‚°ÿ3Ûÿ!ÍÿS‚êÿ3ÛÿŸêÿSƒÜÿ5 ÿSÿs®ÿ!dÿU¯ÿe¾ÿ°ÿsÿEëÿÛÿDƒÜÿDƒİÿƒİÿ$“®ÿ#T¯ÿÎÿr¯ÿ!d°ÿ#U’°ëÿ35‘®Ûÿ#E³°ÎÿÎôÿFŸÌÿ$s½ÿS¿ÿs®ÿc®ÿ!‚½ÿ!d¯ÿsÜÿ!ÑÌÿt†ëÿ3¡ëÿD‚Üÿ4Ÿ½êÿŸ©ÿ$tëïÿE¡İÿT½ÿr¯ÿU½ÿrÌÿU‘¾ÿtÌÿ#TÛÿD°½ÿ8SƒÎÿS®êÿ5 êÿS ÿc½ìÿc½ÿd½ÿd°ÿ4¡Üÿ!Ûÿ4‚Îİÿ—êÿ•àÿt‘ÿE’ÿT®ÿ5¡ìÿr¡ÿr½ÿ!r¾ÿ!rÎÿ)FtÍÿ4‚Íÿ3‘®ÿ#Tƒÿ5‘êÿE‘İÿF®İÿF‚®ìÿU ½ÿ#c°Ìÿdw“ÿ!‘Ìÿ!e±Îÿ$t±ÿ4ÿDŸ°ÿD‘ÜÿS‘ÿ5s ÿt¾ÿT¯ÿU°ÿrÿ.eÌÿÛÿ¯Ûÿ3şZş^&quot;
+tab1[&quot;Ghost&quot;][37][2] = &quot;{0,256}{3,256}{3,256}{3,42}{48,131}{133,251}{252,256}{5,10}{11,22}{30,38}{56,61}{74,79}{144,152}{153,158}{182,189}{214,225}{227,234}{235,240}{240,245}{13,21}{146,151}&quot;
+tab1[&quot;Ghost&quot;][37][0] = &quot;65.93271544/Songs/Jubo Cessation [KB+PAD] (451-500)/Go-Toubun no Kimochi [Go-Toubun no Hanayome OP][466]/&quot;
+tab1[&quot;Ghost&quot;][38][1] = &quot;şÿ®Üÿ5s¿ÿ$ƒİÿt¢İÿFÍÿVSw Îÿ!Ìåÿc’ëÿc½ÿS¯Ûÿ5U®°ÿ#$ÎÿEİÿ‚¯ÿs¿ÿ5r°İÿ$Ft°İÿ5t¯ÎÿEÿ,5’¿ÿ4‘ÿFİÿE¡êÿDe®¿ÿ4hr’¾ìÿ3FÜÿ#S½êÿ!®Ûÿed¿ÿDrëìÿ†‚¯ÜÿSt®¿ÿe®¿ÿ4T‘İÿFt¡êÿE±ÿ!’ìÿ$U‘°ÿ3Tİÿ3F½Îÿ4 ÛÿDdŸÿd°ÿE‚ÍÎÿ!s®ÿ5rÌëÿ4¯¿ÿ$eƒ±Íÿ4ˆÛÿ ÿU½ÿ3‚êÿEt Şÿ6¤ÿ84d’ëÿct¯ÿcÛÿD ÿrÌÿ#Fƒİÿ5¡ÜÿE¡ÍÿDe¯ÿrÌÿ3t°êÿS¯¿ÿ!S‘Íÿ$D’ÎÌÿ5UŸÌÿFsêÿE°Îÿh¡¯ìÿ$TŸ½ÿs Íêÿ!ëÿ’ÌÿDcÿ#êÿFs’ÍÿDeÍÎÿ4ëÿ°ÜÿFÿEÿ4U‘¾ìÿ3TŸ¿Ìÿlc®ÿsÍÿ#e¡¿ÿFt¡İÿVc†ÜÿEVw®ÿhƒÂÛìÿ4‚ƒİÿFTƒ¡±ÿ5w½ÑÿStÌÿStÌÿ5E°êÿ#SÿE’¿ÿ3ƒÌÿ$cÿF¡ÜÿS’Ûÿ$rŸÿDr½ÿc°êÿEÍåÿSŸìÿc°ëÿ#FÿcÛÿ‘®ÛÿF“¯Âÿr‘ÿ3‚½ÿD¡¡ÿ5¾ìÿ$UŸ±ÿÿ3Íÿ$Ÿÿ¾ÿ‚½ÿ5s¡ÛìÿD’ÛìÿŸÌÿ3c½ÿc’êÿ!’ÍÿDÌÿ3c¯ÿ5j½ÿ4e°ÿ$U‘°ëÿUÍÿTêÿSÍÿSÍÿdŸÿ3ƒ¯ÿ!ôÿ5e®¿ìÿ4rÿ°ÿ®Çÿ4Ûÿ‚ÿŸÿ:?¯ÿc®ÿ!U¾ÿTƒ½İÿ#c ½ÿ35It Ûÿ®¸ÛÿDc¾ÿDêÿ!eƒÎŞÿ$r ëìÿT’¯Üÿ¯ÄêÿcÎÿ5®ÿSŸ¿ÿ$rŸ½ëÿ3c‚¯ÜÿÍãÿd®ÿ#‚½ÿr¡êÿce®Íÿ5’ ìÿ8U•‘ÌÿÿE—š&quot;
+tab1[&quot;Ghost&quot;][38][2] = &quot;{0,237}{7,237}{7,237}{7,198}{201,237}{7,72}{73,112}{113,139}{140,145}{150,163}{168,175}{176,180}{182,196}{203,237}{9,14}{18,22}{25,30}{34,41}{44,54}{59,66}{92,97}{99,104}{123,134}{206,210}{214,218}{221,226}{230,236}&quot;
+tab1[&quot;Ghost&quot;][38][0] = &quot;64.89323044/Songs/Jubo Cessation [KB+PAD] (451-500)/FAITH [Tate no Yuusha no Nariagari OP2][478]/&quot;
+return tab1</Data>
+<DefaultModifiers/>
+<DisplayName/>
+<GoalCalories>0</GoalCalories>
+<GoalSeconds>0</GoalSeconds>
+<GoalType>0</GoalType>
+<Guid>94ddd1798818daa1</Guid>
+<IsMachine>1</IsMachine>
+<IsWeightSet>0</IsWeightSet>
+<LastCourseDifficulty/>
+<LastDifficulty/>
+<LastPlayedDate>2019-06-07</LastPlayedDate>
+<LastPlayedMachineGuid>94ddd1798818daa1</LastPlayedMachineGuid>
+<NumExtraStagesFailed>0</NumExtraStagesFailed>
+<NumExtraStagesPassed>0</NumExtraStagesPassed>
+<NumSongsPlayedByDifficulty>
+<Beginner>1</Beginner>
+<Challenge>60</Challenge>
+<Easy>3</Easy>
+<Hard>10</Hard>
+<Medium>2</Medium>
+</NumSongsPlayedByDifficulty>
+<NumSongsPlayedByMeter>
+<Meter10>2</Meter10>
+<Meter11>12</Meter11>
+<Meter12>9</Meter12>
+<Meter13>29</Meter13>
+<Meter2>2</Meter2>
+<Meter3>1</Meter3>
+<Meter4>1</Meter4>
+<Meter5>2</Meter5>
+<Meter8>3</Meter8>
+<Meter9>15</Meter9>
+</NumSongsPlayedByMeter>
+<NumSongsPlayedByPlayMode>
+<Regular>76</Regular>
+</NumSongsPlayedByPlayMode>
+<NumSongsPlayedByStyle>
+<Style Game='dance' Style='single' >76</Style>
+</NumSongsPlayedByStyle>
+<NumStagesPassedByGrade>
+<Failed>15</Failed>
+<Tier08>2</Tier08>
+<Tier09>1</Tier09>
+<Tier10>3</Tier10>
+<Tier11>8</Tier11>
+<Tier12>5</Tier12>
+<Tier13>10</Tier13>
+<Tier14>6</Tier14>
+<Tier15>3</Tier15>
+<Tier16>1</Tier16>
+<Tier17>7</Tier17>
+</NumStagesPassedByGrade>
+<NumStagesPassedByPlayMode>
+<Regular>61</Regular>
+</NumStagesPassedByPlayMode>
+<NumToasties>0</NumToasties>
+<NumTotalSongsPlayed>76</NumTotalSongsPlayed>
+<Song Dir='' />
+<SortOrder/>
+<TotalCaloriesBurned>5150.228027</TotalCaloriesBurned>
+<TotalDancePoints>89128</TotalDancePoints>
+<TotalGameplaySeconds>6023</TotalGameplaySeconds>
+<TotalHands>0</TotalHands>
+<TotalHolds>1765</TotalHolds>
+<TotalJumps>2251</TotalJumps>
+<TotalMines>373</TotalMines>
+<TotalPlaySeconds>10683</TotalPlaySeconds>
+<TotalPlays>40</TotalPlays>
+<TotalRolls>19</TotalRolls>
+<TotalTapsAndHolds>27326</TotalTapsAndHolds>
+<UnlockedSongs/>
+</GeneralData>
+<RecentCourseScores/>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:20:18</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>20</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.25x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.764667</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>20</Holds>
+<Jumps>38</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>271</Taps>
+</RadarValues>
+<Score>70617268</Score>
+<SurviveSeconds>90.785675</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>4</Good>
+<Great>43</Great>
+<HitMine>0</HitMine>
+<Marvelous>149</Marvelous>
+<Miss>7</Miss>
+<Perfect>75</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:22:16</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.705426</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>35</Jumps>
+<Mines>35</Mines>
+<Rolls>0</Rolls>
+<Taps>341</Taps>
+</RadarValues>
+<Score>71209311</Score>
+<SurviveSeconds>88.521751</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>87</Great>
+<HitMine>2</HitMine>
+<Marvelous>151</Marvelous>
+<Miss>9</Miss>
+<Perfect>94</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:24:07</DateTime>
+<Grade>Tier16</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>40</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.569088</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>40</Holds>
+<Jumps>38</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>474</Taps>
+</RadarValues>
+<Score>70787402</Score>
+<SurviveSeconds>90.963303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>25</Good>
+<Great>168</Great>
+<HitMine>0</HitMine>
+<Marvelous>144</Marvelous>
+<Miss>23</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:24:18</DateTime>
+<Grade>Tier16</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>40</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.569088</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>40</Holds>
+<Jumps>38</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>474</Taps>
+</RadarValues>
+<Score>70787402</Score>
+<SurviveSeconds>90.963303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>25</Good>
+<Great>168</Great>
+<HitMine>0</HitMine>
+<Marvelous>144</Marvelous>
+<Miss>23</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:50:51</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>5</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>Overhead, metal</Modifiers>
+<Name>EVNT</Name>
+<PercentDP>0.015517</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>5</Holds>
+<Jumps>0</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>5</Taps>
+</RadarValues>
+<Score>224133</Score>
+<SurviveSeconds>13.499128</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>2</Marvelous>
+<Miss>3</Miss>
+<Perfect>2</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/' />
+<Steps Difficulty='Easy' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 01:53:00</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>5</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>Overhead, metal</Modifiers>
+<Name>EVNT</Name>
+<PercentDP>0.028916</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>5</Holds>
+<Jumps>2</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>6</Taps>
+</RadarValues>
+<Score>163330</Score>
+<SurviveSeconds>9.053899</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>0</Great>
+<HitMine>0</HitMine>
+<Marvelous>3</Marvelous>
+<Miss>2</Miss>
+<Perfect>2</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Kimi no Sei [Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai OP][458]/' />
+<Steps Difficulty='Easy' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 02:24:52</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.687855</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>34</Jumps>
+<Mines>37</Mines>
+<Rolls>0</Rolls>
+<Taps>337</Taps>
+</RadarValues>
+<Score>74391157</Score>
+<SurviveSeconds>88.510193</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>11</Good>
+<Great>72</Great>
+<HitMine>0</HitMine>
+<Marvelous>147</Marvelous>
+<Miss>13</Miss>
+<Perfect>107</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 03:27:06</DateTime>
+<Grade>Tier08</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.866087</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>35</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>305</Taps>
+</RadarValues>
+<Score>72714939</Score>
+<SurviveSeconds>91.551239</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>38</Great>
+<HitMine>0</HitMine>
+<Marvelous>167</Marvelous>
+<Miss>1</Miss>
+<Perfect>100</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-26 03:30:44</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.682685</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>22</Jumps>
+<Mines>4</Mines>
+<Rolls>0</Rolls>
+<Taps>508</Taps>
+</RadarValues>
+<Score>3348575</Score>
+<SurviveSeconds>91.580521</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>11</Good>
+<Great>119</Great>
+<HitMine>0</HitMine>
+<Marvelous>220</Marvelous>
+<Miss>19</Miss>
+<Perfect>158</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-29 00:50:19</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737468</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>36</Jumps>
+<Mines>32</Mines>
+<Rolls>0</Rolls>
+<Taps>344</Taps>
+</RadarValues>
+<Score>75035970</Score>
+<SurviveSeconds>88.508705</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>11</Good>
+<Great>74</Great>
+<HitMine>5</HitMine>
+<Marvelous>165</Marvelous>
+<Miss>6</Miss>
+<Perfect>94</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-29 00:57:00</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.796899</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>36</Jumps>
+<Mines>36</Mines>
+<Rolls>0</Rolls>
+<Taps>347</Taps>
+</RadarValues>
+<Score>77290099</Score>
+<SurviveSeconds>88.507401</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>3</Good>
+<Great>75</Great>
+<HitMine>1</HitMine>
+<Marvelous>173</Marvelous>
+<Miss>3</Miss>
+<Perfect>96</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-03-29 00:59:18</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.792933</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>22</Jumps>
+<Mines>4</Mines>
+<Rolls>0</Rolls>
+<Taps>519</Taps>
+</RadarValues>
+<Score>88603907</Score>
+<SurviveSeconds>91.569389</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>2</Good>
+<Great>85</Great>
+<HitMine>0</HitMine>
+<Marvelous>247</Marvelous>
+<Miss>8</Miss>
+<Perfect>185</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-05-06 22:06:43</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.500559</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>38</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>486</Taps>
+</RadarValues>
+<Score>62343500</Score>
+<SurviveSeconds>90.976387</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>35</Good>
+<Great>292</Great>
+<HitMine>0</HitMine>
+<Marvelous>66</Marvelous>
+<Miss>11</Miss>
+<Perfect>93</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-05-06 22:11:33</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.672868</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>35</Jumps>
+<Mines>37</Mines>
+<Rolls>0</Rolls>
+<Taps>347</Taps>
+</RadarValues>
+<Score>69064858</Score>
+<SurviveSeconds>88.522011</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>8</Good>
+<Great>144</Great>
+<HitMine>0</HitMine>
+<Marvelous>85</Marvelous>
+<Miss>3</Miss>
+<Perfect>110</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 02:59:49</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.808829</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>37</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>471</Taps>
+</RadarValues>
+<Score>90494421</Score>
+<SurviveSeconds>124.350555</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>6</Good>
+<Great>35</Great>
+<HitMine>0</HitMine>
+<Marvelous>288</Marvelous>
+<Miss>13</Miss>
+<Perfect>142</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Alien Alien/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:01:46</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.749441</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>429</Taps>
+</RadarValues>
+<Score>85385516</Score>
+<SurviveSeconds>92.339066</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>2</Good>
+<Great>78</Great>
+<HitMine>0</HitMine>
+<Marvelous>220</Marvelous>
+<Miss>11</Miss>
+<Perfect>129</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/17 Sai [Irozuku Sekai no Ashita kara OP][456]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:04:14</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.661569</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>51</Jumps>
+<Mines>7</Mines>
+<Rolls>0</Rolls>
+<Taps>477</Taps>
+</RadarValues>
+<Score>80225879</Score>
+<SurviveSeconds>92.408844</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>115</Great>
+<HitMine>0</HitMine>
+<Marvelous>190</Marvelous>
+<Miss>16</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Bon Appetit S [Blend S OP][378]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:04:28</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.661569</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>51</Jumps>
+<Mines>7</Mines>
+<Rolls>0</Rolls>
+<Taps>477</Taps>
+</RadarValues>
+<Score>80225879</Score>
+<SurviveSeconds>92.408844</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>115</Great>
+<HitMine>0</HitMine>
+<Marvelous>190</Marvelous>
+<Miss>16</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Bon Appetit S [Blend S OP][378]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:10:06</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>6</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.575115</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>6</Holds>
+<Jumps>51</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>404</Taps>
+</RadarValues>
+<Score>33456955</Score>
+<SurviveSeconds>92.765450</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>16</Good>
+<Great>116</Great>
+<HitMine>0</HitMine>
+<Marvelous>162</Marvelous>
+<Miss>22</Miss>
+<Perfect>110</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Ugoku Ugoku [Shoujo Shuumatsu Ryokou OP][380]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:12:20</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>19</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.715673</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>18</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>1</Rolls>
+<Taps>423</Taps>
+</RadarValues>
+<Score>1058455</Score>
+<SurviveSeconds>92.097755</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>8</Good>
+<Great>90</Great>
+<HitMine>0</HitMine>
+<Marvelous>178</Marvelous>
+<Miss>11</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Here [Mahou Tsukai no Yome OP][382]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:14:57</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>24</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.760159</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>24</Holds>
+<Jumps>54</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>469</Taps>
+</RadarValues>
+<Score>83660656</Score>
+<SurviveSeconds>104.445625</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>100</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>7</Miss>
+<Perfect>138</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Tori Kage [Darling in the FranXX ED1][405]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:15:02</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>24</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.760159</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>24</Holds>
+<Jumps>54</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>469</Taps>
+</RadarValues>
+<Score>83660656</Score>
+<SurviveSeconds>104.445625</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>100</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>7</Miss>
+<Perfect>138</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Tori Kage [Darling in the FranXX ED1][405]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:17:24</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>10</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737131</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>10</Holds>
+<Jumps>29</Jumps>
+<Mines>8</Mines>
+<Rolls>0</Rolls>
+<Taps>452</Taps>
+</RadarValues>
+<Score>87076529</Score>
+<SurviveSeconds>93.453514</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>83</Great>
+<HitMine>1</HitMine>
+<Marvelous>209</Marvelous>
+<Miss>12</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Love Dramatic [Kaguya-sama wa Kokurasetai OP][472]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:25:44</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.619552</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>20</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>454</Taps>
+</RadarValues>
+<Score>18495</Score>
+<SurviveSeconds>92.251671</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>14</Good>
+<Great>95</Great>
+<HitMine>0</HitMine>
+<Marvelous>208</Marvelous>
+<Miss>26</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/More One Night [Shoujo Shuumatsu Ryokou ED][381]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:25:53</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.619552</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>20</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>454</Taps>
+</RadarValues>
+<Score>18495</Score>
+<SurviveSeconds>92.251671</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>14</Good>
+<Great>95</Great>
+<HitMine>0</HitMine>
+<Marvelous>208</Marvelous>
+<Miss>26</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/More One Night [Shoujo Shuumatsu Ryokou ED][381]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:29:59</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.652157</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>67</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>456</Taps>
+</RadarValues>
+<Score>79580607</Score>
+<SurviveSeconds>87.524788</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>12</Good>
+<Great>140</Great>
+<HitMine>0</HitMine>
+<Marvelous>169</Marvelous>
+<Miss>16</Miss>
+<Perfect>135</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) adrenaline!!! (Eromanga-sensei)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 03:32:30</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>35</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.500889</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>35</Holds>
+<Jumps>57</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>369</Taps>
+</RadarValues>
+<Score>47020695</Score>
+<SurviveSeconds>90.164810</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>6</Good>
+<Great>86</Great>
+<HitMine>0</HitMine>
+<Marvelous>164</Marvelous>
+<Miss>41</Miss>
+<Perfect>113</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure &amp; Itsugo15) Hitorigoto (Eromanga-sensei)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 04:08:21</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.724565</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>48</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>467</Taps>
+</RadarValues>
+<Score>82830646</Score>
+<SurviveSeconds>91.198227</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>121</Great>
+<HitMine>0</HitMine>
+<Marvelous>204</Marvelous>
+<Miss>11</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 351-375/(Huzure) SAKURA Skip (New Game!)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 04:13:00</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>44</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.75x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.274603</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>44</Holds>
+<Jumps>31</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>618</Taps>
+</RadarValues>
+<Score>3290935</Score>
+<SurviveSeconds>104.056374</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>50</Good>
+<Great>249</Great>
+<HitMine>0</HitMine>
+<Marvelous>172</Marvelous>
+<Miss>94</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Astrogazer/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-02 04:13:08</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>44</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.75x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.274603</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>44</Holds>
+<Jumps>31</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>618</Taps>
+</RadarValues>
+<Score>3290935</Score>
+<SurviveSeconds>104.056374</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>50</Good>
+<Great>249</Great>
+<HitMine>0</HitMine>
+<Marvelous>172</Marvelous>
+<Miss>94</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Astrogazer/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-03 01:54:46</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737237</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>56</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>402</Taps>
+</RadarValues>
+<Score>12831350</Score>
+<SurviveSeconds>91.817352</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>64</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>13</Miss>
+<Perfect>123</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Moffu Mofu de Yoinojayo [Sewayaki Kitsune no Senko-san ED][481]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-03 01:54:52</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737237</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>56</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>402</Taps>
+</RadarValues>
+<Score>12831350</Score>
+<SurviveSeconds>91.817352</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>64</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>13</Miss>
+<Perfect>123</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Moffu Mofu de Yoinojayo [Sewayaki Kitsune no Senko-san ED][481]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-03 01:58:45</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>1.5x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.223110</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>62</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>586</Taps>
+</RadarValues>
+<Score>11560</Score>
+<SurviveSeconds>110.516930</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>39</Good>
+<Great>222</Great>
+<HitMine>0</HitMine>
+<Marvelous>178</Marvelous>
+<Miss>100</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Cosy Catastrophe/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-05 02:26:07</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.712889</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>67</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>398</Taps>
+</RadarValues>
+<Score>81711033</Score>
+<SurviveSeconds>90.161766</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>96</Great>
+<HitMine>0</HitMine>
+<Marvelous>173</Marvelous>
+<Miss>12</Miss>
+<Perfect>124</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure &amp; Itsugo15) Hitorigoto (Eromanga-sensei)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-05 02:27:57</DateTime>
+<Grade>Tier15</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>33</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.635602</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>33</Holds>
+<Jumps>65</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>516</Taps>
+</RadarValues>
+<Score>81015095</Score>
+<SurviveSeconds>91.072411</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>134</Great>
+<HitMine>0</HitMine>
+<Marvelous>200</Marvelous>
+<Miss>24</Miss>
+<Perfect>169</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) TOMORROW (Kono Subarashii Sekai ni Shukufuku wo! 2)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-05 03:37:08</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>26</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3.25x, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.414855</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>26</Holds>
+<Jumps>37</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>469</Taps>
+</RadarValues>
+<Score>7645590</Score>
+<SurviveSeconds>101.856491</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>27</Good>
+<Great>129</Great>
+<HitMine>0</HitMine>
+<Marvelous>177</Marvelous>
+<Miss>56</Miss>
+<Perfect>136</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Vanquish The Ghost/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-05 03:39:15</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.25x, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.520124</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>23</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>592</Taps>
+</RadarValues>
+<Score>7949900</Score>
+<SurviveSeconds>99.505013</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>19</Good>
+<Great>194</Great>
+<HitMine>0</HitMine>
+<Marvelous>208</Marvelous>
+<Miss>41</Miss>
+<Perfect>171</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/DDR A/Prey/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 00:05:59</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.652998</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>46</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>459</Taps>
+</RadarValues>
+<Score>78976555</Score>
+<SurviveSeconds>91.195801</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>10</Good>
+<Great>128</Great>
+<HitMine>0</HitMine>
+<Marvelous>186</Marvelous>
+<Miss>19</Miss>
+<Perfect>135</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 351-375/(Huzure) SAKURA Skip (New Game!)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 00:07:43</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.719608</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>67</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>457</Taps>
+</RadarValues>
+<Score>84166626</Score>
+<SurviveSeconds>87.539085</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>90</Great>
+<HitMine>0</HitMine>
+<Marvelous>213</Marvelous>
+<Miss>15</Miss>
+<Perfect>145</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) adrenaline!!! (Eromanga-sensei)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 00:10:00</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.770917</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>435</Taps>
+</RadarValues>
+<Score>83449987</Score>
+<SurviveSeconds>92.337029</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>87</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>5</Miss>
+<Perfect>131</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/17 Sai [Irozuku Sekai no Ashita kara OP][456]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 00:10:05</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.770917</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>435</Taps>
+</RadarValues>
+<Score>83449987</Score>
+<SurviveSeconds>92.337029</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>87</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>5</Miss>
+<Perfect>131</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/17 Sai [Irozuku Sekai no Ashita kara OP][456]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 01:39:36</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.763211</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>18</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>285</Taps>
+</RadarValues>
+<Score>76965353</Score>
+<SurviveSeconds>61.862919</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>3</Good>
+<Great>70</Great>
+<HitMine>0</HitMine>
+<Marvelous>117</Marvelous>
+<Miss>2</Miss>
+<Perfect>95</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Aimai Moko [Tsurezure Children OP][356]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 01:55:53</DateTime>
+<Grade>Tier15</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.621176</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>64</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>447</Taps>
+</RadarValues>
+<Score>79207387</Score>
+<SurviveSeconds>87.523529</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>115</Great>
+<HitMine>0</HitMine>
+<Marvelous>177</Marvelous>
+<Miss>25</Miss>
+<Perfect>146</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) adrenaline!!! (Eromanga-sensei)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:02:06</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.740811</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>24</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>397</Taps>
+</RadarValues>
+<Score>76027044</Score>
+<SurviveSeconds>90.708488</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>77</Great>
+<HitMine>0</HitMine>
+<Marvelous>206</Marvelous>
+<Miss>10</Miss>
+<Perfect>107</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Otaku&apos;s Dream Mix 3 -Pad-/(Grc-009) Be My Friend (Boku wa Tomodachi ga Sukunai Next)/' />
+<Steps Difficulty='Hard' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:11:59</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.659300</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>20</Jumps>
+<Mines>2</Mines>
+<Rolls>0</Rolls>
+<Taps>513</Taps>
+</RadarValues>
+<Score>79055031</Score>
+<SurviveSeconds>92.018303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>10</Good>
+<Great>134</Great>
+<HitMine>0</HitMine>
+<Marvelous>219</Marvelous>
+<Miss>19</Miss>
+<Perfect>150</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Go-Toubun no Kimochi [Go-Toubun no Hanayome OP][466]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:20:06</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>16</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.648916</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>16</Holds>
+<Jumps>17</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>614</Taps>
+</RadarValues>
+<Score>78647170</Score>
+<SurviveSeconds>91.147911</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>14</Good>
+<Great>208</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>16</Miss>
+<Perfect>168</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/FAITH [Tate no Yuusha no Nariagari OP2][478]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:22:00</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>10</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.607595</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>10</Holds>
+<Jumps>26</Jumps>
+<Mines>8</Mines>
+<Rolls>0</Rolls>
+<Taps>447</Taps>
+</RadarValues>
+<Score>57572535</Score>
+<SurviveSeconds>93.424637</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>15</Good>
+<Great>144</Great>
+<HitMine>1</HitMine>
+<Marvelous>160</Marvelous>
+<Miss>17</Miss>
+<Perfect>128</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Love Dramatic [Kaguya-sama wa Kokurasetai OP][472]/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:23:59</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.705426</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>36</Jumps>
+<Mines>35</Mines>
+<Rolls>0</Rolls>
+<Taps>342</Taps>
+</RadarValues>
+<Score>72263010</Score>
+<SurviveSeconds>88.506622</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>86</Great>
+<HitMine>2</HitMine>
+<Marvelous>133</Marvelous>
+<Miss>8</Miss>
+<Perfect>114</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+<HighScoreForASongAndSteps>
+<HighScore>
+<DateTime>2019-06-07 02:24:10</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.705426</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>36</Jumps>
+<Mines>35</Mines>
+<Rolls>0</Rolls>
+<Taps>342</Taps>
+</RadarValues>
+<Score>72263010</Score>
+<SurviveSeconds>88.506622</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>86</Great>
+<HitMine>2</HitMine>
+<Marvelous>133</Marvelous>
+<Miss>8</Miss>
+<Perfect>114</Perfect>
+</TapNoteScores>
+</HighScore>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' />
+<Steps Difficulty='Challenge' StepsType='dance-single' />
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+<ScreenshotData/>
+<SongScores>
+<Song Dir='Songs/DDR 2013/ACROSS WORLD/' >
+<Steps Difficulty='Beginner' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2013/Monkey Business/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR A/Alien Alien/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 02:59:49</DateTime>
+<Grade>Tier10</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.808829</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>37</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>471</Taps>
+</RadarValues>
+<Score>90494421</Score>
+<SurviveSeconds>124.350555</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>6</Good>
+<Great>35</Great>
+<HitMine>0</HitMine>
+<Marvelous>288</Marvelous>
+<Miss>13</Miss>
+<Perfect>142</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR A/Astrogazer/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 04:13:08</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>44</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.75x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.274603</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>44</Holds>
+<Jumps>31</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>618</Taps>
+</RadarValues>
+<Score>3290935</Score>
+<SurviveSeconds>104.056374</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>50</Good>
+<Great>249</Great>
+<HitMine>0</HitMine>
+<Marvelous>172</Marvelous>
+<Miss>94</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR A/Cosy Catastrophe/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-03 01:58:45</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>1.5x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.223110</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>62</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>586</Taps>
+</RadarValues>
+<Score>11560</Score>
+<SurviveSeconds>110.516930</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>39</Good>
+<Great>222</Great>
+<HitMine>0</HitMine>
+<Marvelous>178</Marvelous>
+<Miss>100</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-03</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR A/Prey/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-05 03:39:15</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.25x, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.520124</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>23</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>592</Taps>
+</RadarValues>
+<Score>7949900</Score>
+<SurviveSeconds>99.505013</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>19</Good>
+<Great>194</Great>
+<HitMine>0</HitMine>
+<Marvelous>208</Marvelous>
+<Miss>41</Miss>
+<Perfect>171</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR A/Vanquish The Ghost/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-05 03:37:08</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>26</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3.25x, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.414855</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>26</Holds>
+<Jumps>37</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>469</Taps>
+</RadarValues>
+<Score>7645590</Score>
+<SurviveSeconds>101.856491</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>27</Good>
+<Great>129</Great>
+<HitMine>0</HitMine>
+<Marvelous>177</Marvelous>
+<Miss>56</Miss>
+<Perfect>136</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 351-375/(Huzure) SAKURA Skip (New Game!)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 04:08:21</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.724565</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>48</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>467</Taps>
+</RadarValues>
+<Score>82830646</Score>
+<SurviveSeconds>91.198227</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>121</Great>
+<HitMine>0</HitMine>
+<Marvelous>204</Marvelous>
+<Miss>11</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure &amp; Itsugo15) Hitorigoto (Eromanga-sensei)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-05 02:26:07</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.712889</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>67</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>398</Taps>
+</RadarValues>
+<Score>81711033</Score>
+<SurviveSeconds>90.161766</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>96</Great>
+<HitMine>0</HitMine>
+<Marvelous>173</Marvelous>
+<Miss>12</Miss>
+<Perfect>124</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) Gabriel Drop Kick (Gabriel DropOut)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-03</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) TOMORROW (Kono Subarashii Sekai ni Shukufuku wo! 2)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-05 02:27:57</DateTime>
+<Grade>Tier15</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>33</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.635602</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>33</Holds>
+<Jumps>65</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>516</Taps>
+</RadarValues>
+<Score>81015095</Score>
+<SurviveSeconds>91.072411</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>134</Great>
+<HitMine>0</HitMine>
+<Marvelous>200</Marvelous>
+<Miss>24</Miss>
+<Perfect>169</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) Wagamama MIRROR HEART (Masamune-kun no Revenge)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-03</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Huzure&apos;s Simfiles 376-400/(Huzure) adrenaline!!! (Eromanga-sensei)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 00:07:43</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>38</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.719608</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>38</Holds>
+<Jumps>67</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>457</Taps>
+</RadarValues>
+<Score>84166626</Score>
+<SurviveSeconds>87.539085</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>90</Great>
+<HitMine>0</HitMine>
+<Marvelous>213</Marvelous>
+<Miss>15</Miss>
+<Perfect>145</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/(Aikyoku) shadowgraph (Boogiepop wa Warawanai)/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-29 00:57:00</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>37</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.796899</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>37</Holds>
+<Jumps>36</Jumps>
+<Mines>36</Mines>
+<Rolls>0</Rolls>
+<Taps>347</Taps>
+</RadarValues>
+<Score>77290099</Score>
+<SurviveSeconds>88.507401</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>3</Good>
+<Great>75</Great>
+<HitMine>1</HitMine>
+<Marvelous>173</Marvelous>
+<Miss>3</Miss>
+<Perfect>96</Perfect>
+</TapNoteScores>
+</HighScore>
+<HighScore>
+<DateTime>2019-06-07 02:24:10</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.705426</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>36</Jumps>
+<Mines>35</Mines>
+<Rolls>0</Rolls>
+<Taps>342</Taps>
+</RadarValues>
+<Score>72263010</Score>
+<SurviveSeconds>88.506622</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>86</Great>
+<HitMine>2</HitMine>
+<Marvelous>133</Marvelous>
+<Miss>8</Miss>
+<Perfect>114</Perfect>
+</TapNoteScores>
+</HighScore>
+<HighScore>
+<DateTime>2019-06-07 02:23:59</DateTime>
+<Grade>Tier13</Grade>
+<HoldNoteScores>
+<NG>1</NG>
+<OK>36</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.705426</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>36</Holds>
+<Jumps>36</Jumps>
+<Mines>35</Mines>
+<Rolls>0</Rolls>
+<Taps>342</Taps>
+</RadarValues>
+<Score>72263010</Score>
+<SurviveSeconds>88.506622</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>9</Good>
+<Great>86</Great>
+<HitMine>2</HitMine>
+<Marvelous>133</Marvelous>
+<Miss>8</Miss>
+<Perfect>114</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>11</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/17 Sai [Irozuku Sekai no Ashita kara OP][456]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 00:10:05</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.770917</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>435</Taps>
+</RadarValues>
+<Score>83449987</Score>
+<SurviveSeconds>92.337029</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>87</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>5</Miss>
+<Perfect>131</Perfect>
+</TapNoteScores>
+</HighScore>
+<HighScore>
+<DateTime>2019-06-02 03:01:46</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>7</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.749441</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>7</Holds>
+<Jumps>13</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>429</Taps>
+</RadarValues>
+<Score>85385516</Score>
+<SurviveSeconds>92.339066</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>2</Good>
+<Great>78</Great>
+<HitMine>0</HitMine>
+<Marvelous>220</Marvelous>
+<Miss>11</Miss>
+<Perfect>129</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Chikatto Chika Chika [Kaguya-sama wa Kokurasetai EP3 ED][470]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-05</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/FAITH [Tate no Yuusha no Nariagari OP2][478]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 02:20:06</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>16</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.648916</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>16</Holds>
+<Jumps>17</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>614</Taps>
+</RadarValues>
+<Score>78647170</Score>
+<SurviveSeconds>91.147911</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>14</Good>
+<Great>208</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>16</Miss>
+<Perfect>168</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Go-Toubun no Kimochi [Go-Toubun no Hanayome OP][466]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 02:11:59</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.659300</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>20</Jumps>
+<Mines>2</Mines>
+<Rolls>0</Rolls>
+<Taps>513</Taps>
+</RadarValues>
+<Score>79055031</Score>
+<SurviveSeconds>92.018303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>10</Good>
+<Great>134</Great>
+<HitMine>0</HitMine>
+<Marvelous>219</Marvelous>
+<Miss>19</Miss>
+<Perfect>150</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Kawaki wo Ameku [Domestic na Kanojo OP][469]/' >
+<Steps Difficulty='Easy' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-03-20</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Medium' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-03-20</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-26 01:24:18</DateTime>
+<Grade>Tier16</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>40</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.569088</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>40</Holds>
+<Jumps>38</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>474</Taps>
+</RadarValues>
+<Score>70787402</Score>
+<SurviveSeconds>90.963303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>25</Good>
+<Great>168</Great>
+<HitMine>0</HitMine>
+<Marvelous>144</Marvelous>
+<Miss>23</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<HighScore>
+<DateTime>2019-03-26 01:24:07</DateTime>
+<Grade>Tier16</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>40</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>3x, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.569088</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>40</Holds>
+<Jumps>38</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>474</Taps>
+</RadarValues>
+<Score>70787402</Score>
+<SurviveSeconds>90.963303</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>25</Good>
+<Great>168</Great>
+<HitMine>0</HitMine>
+<Marvelous>144</Marvelous>
+<Miss>23</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Kimi no Sei [Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai OP][458]/' >
+<Steps Difficulty='Easy' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-26 01:53:00</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>5</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>Overhead, metal</Modifiers>
+<Name>EVNT</Name>
+<PercentDP>0.028916</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>5</Holds>
+<Jumps>2</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>6</Taps>
+</RadarValues>
+<Score>163330</Score>
+<SurviveSeconds>9.053899</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>0</Great>
+<HitMine>0</HitMine>
+<Marvelous>3</Marvelous>
+<Miss>2</Miss>
+<Perfect>2</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-05-06</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Love Dramatic [Kaguya-sama wa Kokurasetai OP][472]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:17:24</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>10</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737131</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>10</Holds>
+<Jumps>29</Jumps>
+<Mines>8</Mines>
+<Rolls>0</Rolls>
+<Taps>452</Taps>
+</RadarValues>
+<Score>87076529</Score>
+<SurviveSeconds>93.453514</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>1</Good>
+<Great>83</Great>
+<HitMine>1</HitMine>
+<Marvelous>209</Marvelous>
+<Miss>12</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Moffu Mofu de Yoinojayo [Sewayaki Kitsune no Senko-san ED][481]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-03 01:54:52</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.737237</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>56</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>402</Taps>
+</RadarValues>
+<Score>12831350</Score>
+<SurviveSeconds>91.817352</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>5</Good>
+<Great>64</Great>
+<HitMine>0</HitMine>
+<Marvelous>210</Marvelous>
+<Miss>13</Miss>
+<Perfect>123</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-03</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Rightfully [Goblin Slayer OP][454]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Sentimental Crisis [Kaguya-sama wa Kokurasetai ED1][473]/' >
+<Steps Difficulty='Easy' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-26 01:50:51</DateTime>
+<Grade>Tier17</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>5</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>Overhead, metal</Modifiers>
+<Name>EVNT</Name>
+<PercentDP>0.015517</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>5</Holds>
+<Jumps>0</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>5</Taps>
+</RadarValues>
+<Score>224133</Score>
+<SurviveSeconds>13.499128</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>1</Great>
+<HitMine>0</HitMine>
+<Marvelous>2</Marvelous>
+<Miss>3</Miss>
+<Perfect>2</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-26 01:20:18</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>20</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>2.25x, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.764667</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>20</Holds>
+<Jumps>38</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>271</Taps>
+</RadarValues>
+<Score>70617268</Score>
+<SurviveSeconds>90.785675</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>4</Good>
+<Great>43</Great>
+<HitMine>0</HitMine>
+<Marvelous>149</Marvelous>
+<Miss>7</Miss>
+<Perfect>75</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-03-29</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Cessation [KB+PAD] (451-500)/Touch Off [Yakusoku no Neverland OP][464]/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-26 03:27:06</DateTime>
+<Grade>Tier08</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.866087</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>35</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>305</Taps>
+</RadarValues>
+<Score>72714939</Score>
+<SurviveSeconds>91.551239</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>0</Good>
+<Great>38</Great>
+<HitMine>0</HitMine>
+<Marvelous>167</Marvelous>
+<Miss>1</Miss>
+<Perfect>100</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-03-26</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-03-29 00:59:18</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>39</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C420, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.792933</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>39</Holds>
+<Jumps>22</Jumps>
+<Mines>4</Mines>
+<Rolls>0</Rolls>
+<Taps>519</Taps>
+</RadarValues>
+<Score>88603907</Score>
+<SurviveSeconds>91.569389</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>2</Good>
+<Great>85</Great>
+<HitMine>0</HitMine>
+<Marvelous>247</Marvelous>
+<Miss>8</Miss>
+<Perfect>185</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-05-06</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Aimai Moko [Tsurezure Children OP][356]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 01:39:36</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.763211</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>18</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>285</Taps>
+</RadarValues>
+<Score>76965353</Score>
+<SurviveSeconds>61.862919</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>3</Good>
+<Great>70</Great>
+<HitMine>0</HitMine>
+<Marvelous>117</Marvelous>
+<Miss>2</Miss>
+<Perfect>95</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/BRAVER [Shokugeki no Souma San no Sara OP1][449]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Bon Appetit S [Blend S OP][378]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:04:28</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.661569</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>51</Jumps>
+<Mines>7</Mines>
+<Rolls>0</Rolls>
+<Taps>477</Taps>
+</RadarValues>
+<Score>80225879</Score>
+<SurviveSeconds>92.408844</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>115</Great>
+<HitMine>0</HitMine>
+<Marvelous>190</Marvelous>
+<Miss>16</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<HighScore>
+<DateTime>2019-06-02 03:04:14</DateTime>
+<Grade>Tier14</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>4</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name>OMFG</Name>
+<PercentDP>0.661569</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>4</Holds>
+<Jumps>51</Jumps>
+<Mines>7</Mines>
+<Rolls>0</Rolls>
+<Taps>477</Taps>
+</RadarValues>
+<Score>80225879</Score>
+<SurviveSeconds>92.408844</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>13</Good>
+<Great>115</Great>
+<HitMine>0</HitMine>
+<Marvelous>190</Marvelous>
+<Miss>16</Miss>
+<Perfect>159</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Here [Mahou Tsukai no Yome OP][382]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:12:20</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>19</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.715673</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>18</Holds>
+<Jumps>30</Jumps>
+<Mines>0</Mines>
+<Rolls>1</Rolls>
+<Taps>423</Taps>
+</RadarValues>
+<Score>1058455</Score>
+<SurviveSeconds>92.097755</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>8</Good>
+<Great>90</Great>
+<HitMine>0</HitMine>
+<Marvelous>178</Marvelous>
+<Miss>11</Miss>
+<Perfect>147</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/More One Night [Shoujo Shuumatsu Ryokou ED][381]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:25:53</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>11</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.619552</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>11</Holds>
+<Jumps>20</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>454</Taps>
+</RadarValues>
+<Score>18495</Score>
+<SurviveSeconds>92.251671</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>14</Good>
+<Great>95</Great>
+<HitMine>0</HitMine>
+<Marvelous>208</Marvelous>
+<Miss>26</Miss>
+<Perfect>137</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/New Stranger [High Score Girl OP][439]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Saiaku na Hi demo Anata ga Suki [Isekai Maou to Shoukan Shoujo no Dorei Majutsu ED][430]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Tori Kage [Darling in the FranXX ED1][405]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:15:02</DateTime>
+<Grade>Tier11</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>24</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.760159</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>24</Holds>
+<Jumps>54</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>469</Taps>
+</RadarValues>
+<Score>83660656</Score>
+<SurviveSeconds>104.445625</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>100</Great>
+<HitMine>0</HitMine>
+<Marvelous>224</Marvelous>
+<Miss>7</Miss>
+<Perfect>138</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Jubo Impulsion [KB+PAD] (301-450)/Ugoku Ugoku [Shoujo Shuumatsu Ryokou OP][380]/' >
+<Steps Difficulty='Challenge' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-02 03:10:06</DateTime>
+<Grade>Failed</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>6</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, metal</Modifiers>
+<Name/>
+<PercentDP>0.575115</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>6</Holds>
+<Jumps>51</Jumps>
+<Mines>3</Mines>
+<Rolls>0</Rolls>
+<Taps>404</Taps>
+</RadarValues>
+<Score>33456955</Score>
+<SurviveSeconds>92.765450</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>16</Good>
+<Great>116</Great>
+<HitMine>0</HitMine>
+<Marvelous>162</Marvelous>
+<Miss>22</Miss>
+<Perfect>110</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-02</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Otaku&apos;s Dream Mix 3 -Pad-/(Grc-009) Be My Friend (Boku wa Tomodachi ga Sukunai Next)/' >
+<Steps Difficulty='Hard' StepsType='dance-single' >
+<HighScoreList>
+<HighScore>
+<DateTime>2019-06-07 02:02:06</DateTime>
+<Grade>Tier12</Grade>
+<HoldNoteScores>
+<NG>0</NG>
+<OK>12</OK>
+</HoldNoteScores>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<MachineGuid>94ddd1798818daa1</MachineGuid>
+<Modifiers>C400, Overhead, ddrnote</Modifiers>
+<Name/>
+<PercentDP>0.740811</PercentDP>
+<PlayerGuid/>
+<ProductID>4</ProductID>
+<RadarValues>
+<Hands>0</Hands>
+<Holds>12</Holds>
+<Jumps>24</Jumps>
+<Mines>0</Mines>
+<Rolls>0</Rolls>
+<Taps>397</Taps>
+</RadarValues>
+<Score>76027044</Score>
+<SurviveSeconds>90.708488</SurviveSeconds>
+<TapNoteScores>
+<AvoidMine>0</AvoidMine>
+<Boo>0</Boo>
+<Good>7</Good>
+<Great>77</Great>
+<HitMine>0</HitMine>
+<Marvelous>206</Marvelous>
+<Miss>10</Miss>
+<Perfect>107</Perfect>
+</TapNoteScores>
+</HighScore>
+<LastPlayed>2019-06-07</LastPlayed>
+<NumTimesPlayed>1</NumTimesPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+</SongScores>
+</Stats>

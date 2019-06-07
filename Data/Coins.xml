@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Bookkeeping>
+	<Data>
+		<Coins Day='78' Hour='3' Year='2019' >2</Coins>
+	</Data>
+	<ServiceData>
+		<Coins Day='84' Hour='1' Year='2019' >1</Coins>
+		<Coins Day='84' Hour='2' Year='2019' >1</Coins>
+		<Coins Day='157' Hour='2' Year='2019' >2</Coins>
+	</ServiceData>
+</Bookkeeping>

@@ -1,0 +1,172 @@
+OpenITG PC beta 2 crash report (build 14)
+--------------------------------------
+
+Screen 'ScreenSelectProfile' has an invalid class ''
+
+Thread: Main thread
+        .\GameSoundManager.cpp:474 5.290149, delta 0.006000
+        .\GameSoundManager.cpp:474 5.296149, delta 0.005000
+        .\GameSoundManager.cpp:474 5.301149, delta 0.005000
+        .\GameSoundManager.cpp:474 5.306149, delta 0.006000
+        .\ScreenManager.cpp:277 Screen 'ScreenSelectProfile' has an invalid class ''
+Thread: Decode thread
+        .\arch\Sound\RageSoundDriver_Generic_Software.cpp:206 
+        .\arch\Sound\RageSoundDriver_Generic_Software.cpp:206 
+        .\arch\Sound\RageSoundDriver_Generic_Software.cpp:206 
+        .\arch\Sound\RageSoundDriver_Generic_Software.cpp:206 
+        .\arch\Sound\RageSoundDriver_Generic_Software.cpp:206 
+Thread: Mixer thread
+Thread: MusicThread
+        .\RageFileDriverDirectHelpers.cpp:233 C:/Users/Richard/Desktop/OpenITG/title menu game name/*
+Thread: WorkerThread (ThreadedMemoryCardWorker)
+Thread: WorkerThread (/@mc1int/)
+Thread: WorkerThread (/@mc2int/)
+Thread: DirectInput thread
+        .\arch\InputHandler\InputHandler_DirectInput.cpp:512 
+        .\arch\InputHandler\InputHandler_DirectInput.cpp:487 
+        .\arch\InputHandler\InputHandler_DirectInput.cpp:507 
+        .\arch\InputHandler\InputHandler_DirectInput.cpp:512 
+        .\arch\InputHandler\InputHandler_DirectInput.cpp:487 
+
+0057ba7f: void debug_crash(void)
+0055a1fc: void sm_crash(char const *)
+006bc1ac: class Screen * ScreenManager::MakeNewScreenInternal(class CStdStr<char> const &)
+006490ba: LockMutex::LockMutex(class RageMutex &,char const *,int)
+006bc9c7: void ScreenManager::LoadDelayedScreen(void)
+7c3638e2: MSVCR71!except_handler3 [7c360000+38e2+0]
+7c3627e9: MSVCR71!wcscat [7c360000+2679+170]
+7c36280c: MSVCR71!wcscat [7c360000+2679+193]
+7c3c1ce3: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Tidy [7c3c0000+1c9e+45]
+7c3c1f4d: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Copy [7c3c0000+1e9b+b2]
+7c3c1268: MSVCP71!7c3c0000
+7c3c4f9e: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Grow [7c3c0000+4f7c+22]
+7c3c560c: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign [7c3c0000+5591+7b]
+7c3c5617: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::assign [7c3c0000+5591+86]
+7c3c6910: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::operator= [7c3c0000+6903+d]
+004638a6: class CStdStr<char> & CStdStr<char>::operator=(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)
+006bd7ba: void ScreenManager::SetNewScreen(class CStdStr<char> const &)
+00487a77: virtual void ScreenSelect::HandleScreenMessage(enum ScreenMessage)
+7c371737: MSVCR71!fcloseall [7c360000+11572+1c5]
+7c371e8e: MSVCR71!fcloseall [7c360000+11572+91c]
+7c371ed9: MSVCR71!fcloseall [7c360000+11572+967]
+0065df01: virtual void Actor::UpdateInternal(float)
+0065df01: virtual void Actor::UpdateInternal(float)
+0065cff5: virtual void Actor::Update(float)
+0065cff5: virtual void Actor::Update(float)
+004938b6: virtual void ScreenSelectMaster::HandleScreenMessage(enum ScreenMessage)
+006641fc: virtual float ActorFrame::GetTweenTimeLeft(void)const 
+00664228: virtual float ActorFrame::GetTweenTimeLeft(void)const 
+00589027: virtual void Transition::UpdateInternal(float)
+0065cff5: virtual void Actor::Update(float)
+005a667e: virtual void HelpDisplay::Update(float)
+00663f1b: virtual void ActorFrame::UpdateInternal(float)
+751962d7: KERNELBASE!InitOnceExecuteOnce [75090000+1062c0+17]
+76e1888d: KERNEL32!timeGetTime [76dc0000+58840+4d]
+0065cff5: virtual void Actor::Update(float)
+00691111: void GameState::UpdateSongPosition(float,class TimingData const &,class RageTimer const &)
+00691120: void GameState::UpdateSongPosition(float,class TimingData const &,class RageTimer const &)
+00401ad8: virtual void Screen::Update(float)
+7c363598: MSVCR71!free [7c360000+355a+3e]
+7c3c1ccf: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::_Tidy [7c3c0000+1c9e+31]
+004bdd0f: virtual void ScreenWithMenuElements::Update(float)
+7c363598: MSVCR71!free [7c360000+355a+3e]
+004875d7: virtual void ScreenSelect::Update(float)
+00520217: void PlayerOptions::Approach(struct PlayerOptions const &,float)
+00491f7d: virtual void ScreenSelectMaster::Update(float)
+006bd693: void ScreenManager::Update(float)
+0055dde4: void GameLoop(void)
+00650077: void do_split<class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> >,class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> > >(class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> > const &,class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> >,class std::vector<class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> >,class std::allocator<class std::basic_string<unsigned short,struct std::char_traits<unsigned short>,class std::allocator<unsigned short> > > > &,bool)
+7c3c1e96: MSVCP71!std::basic_string<char,std::char_traits<char>,std::allocator<char> >::~basic_string<char,std::char_traits<char>,std::allocator<char> > [7c3c0000+1e8d+9]
+0055f2ca: main()
+774bf3a5: ntdll!RtlRaiseException [77440000+7f370+35]
+77488b04: ntdll!RtlAllocateHeap [77440000+45d00+2e04]
+7461702f: USER32!EndTask [745d0000+3e370+8cbf]
+77488b04: ntdll!RtlAllocateHeap [77440000+45d00+2e04]
+751a18a2: KERNELBASE!RaiseException [75090000+111840+62]
+77488b04: ntdll!RtlAllocateHeap [77440000+45d00+2e04]
+77485d3e: ntdll!RtlAllocateHeap [77440000+45d00+3e]
+7c3627e4: MSVCR71!wcscat [7c360000+2679+16b]
+7c3638e2: MSVCR71!except_handler3 [7c360000+38e2+0]
+7c36280c: MSVCR71!wcscat [7c360000+2679+193]
+7c363125: MSVCR71!unlock [7c360000+3112+13]
+7c363125: MSVCR71!unlock [7c360000+3112+13]
+7c36294c: MSVCR71!msize [7c360000+2903+49]
+7c361e4f: MSVCR71!setmbcp [7c360000+1cf7+158]
+0057a525: WinMain@16()
+00711ac4: WinMainCRTStartup()
+774a4198: ntdll!RtlAreBitsSet [77440000+64140+58]
+
+Static log:
+OpenITG PC beta 2
+Compiled Mon Aug 10 03:50:59 2009 (build 14)
+Log starting 2019-03-26 01:40:03
+VFS: mounting patch.zip
+Loading window: win32
+Windows 6.2 (unknown NT-based) build 9200 []
+Memory: 2047mb total, 4095mb swap (4095mb swap avail)
+Video driver: Intel(R) HD Graphics 630 [Intel Corporation]
+              22.20.16.4815, 9-26-2017 [pci\ven_8086&dev_591b&subsys_118a1025]
+Drive: "HFS256G39TND-N210A      3000" Driver: iaStorA DMA: N/A
+Drive: "ST2000LX001-1RG174      SDM1" Driver: iaStorA DMA: N/A
+Sound device 0: Headphones (High Definition Aud, 0.0, MID 1, PID 65535 
+Sound device 1: Speakers (High Definition Audio, 0.0, MID 1, PID 65535 
+WARNING: Unknown sound driver name: ALSA
+DirectSound Driver: Primary Sound Driver
+DirectSound Driver: Headphones (High Definition Audio Device) {0.0.0.00000000}.{b485524e-d49e-45e5-8b6e-a6c77a82b4dd}
+DirectSound Driver: Speakers (High Definition Audio Device) {0.0.0.00000000}.{0fe4dcd5-6b89-4c4a-b92c-bc5e828a6cc1}
+DirectSound sample rates: 100..200000 (continuous)
+Couldn't load driver DirectSound: no hardware buffers available
+WARNING: Unknown sound driver name: ALSA-sw
+Sound driver: DirectSound-sw
+WARNING: Song "/Songs/In The Groove/Delirium/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Disconnected -hyper-/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Oasis/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Queen of Light/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove/Xuxa/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Agent Blatant/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Amore/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Baby Don't You Want Me/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Birdie/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Bumble Bee/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Clockwork Genesis/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Destiny/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Get Happy/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Hardcore Symphony/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Incognito/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Life of a Butterfly/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Monolith/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Out Of The Dark/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Reactor/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Robotix/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Typical Tropical/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/VerTex^2/" has no music file; guessing at 100.000000 seconds
+WARNING: Song "/Songs/In The Groove 2/Vorsprung Durch Techno/" has no music file; guessing at 100.000000 seconds
+Loading courses.
+WARNING: AllowExtraPlayerOptions turned off, skipping Extra.ini
+Video renderers: 'd3d,opengl'
+Windowed 1920x1080 32 color 32 texture 60Hz NoVsync AA
+Found 1 DirectInput devices:
+   0: 'Keyboard' axes: 0, hats: 0, buttons: 256 (buffered)
+WARNING: The graphic '/Themes/simply-love-openitg-master/Fonts/Common default 2x1.png' has frame dimensions that aren't even numbers.
+WARNING: 
+WARNING: The entire image is 64x33 and frame size is 32.0x33.0.
+WARNING: 
+WARNING: Image quality will be much improved if you resize the graphic to 64x34, which is a frame size of 32x34.
+Players joined: P1
+Language: english
+Current renderer: Direct3D
+Theme: simply-love-openitg-master
+
+Partial log:
+00:06.605: FPS: 169, CFPS 172, VPF: 440
+00:07.611: FPS: 170, CFPS 171, VPF: 440
+00:08.614: FPS: 171, CFPS 171, VPF: 440
+00:09.267: XXX: deleting '/Themes/simply-love-openitg-master/Sounds/Common start.ogg'
+00:09.614: FPS: 170, CFPS 171, VPF: 497
+00:10.010: ScreenManager::SetNewScreen( ScreenSelectProfile )
+00:10.010: ScreenManager::MakeNewScreen( ScreenSelectProfile )
+00:10.010: ScreenManager::MakeNewScreenInternal( ScreenSelectProfile )
+00:10.010: Loading screen name 'ScreenSelectProfile'
+00:10.010: Dialog: "The theme metric 'ScreenSelectProfile-Class' is missing.  Correct this and click Retry, or Cancel to break." []
+
+-- End of report
